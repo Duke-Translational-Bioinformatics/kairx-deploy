@@ -1,2 +1,28 @@
 # kairx-deploy
-Codebase used to deploy the Kairx web applications
+The purpose of this repository to is keep track of how our web applications were deployed for
+experimentation during Optimizely set up.
+
+## Deployment
+We will be using a reverse proxy (NGINX) to expose our two sites on differing
+ports on an OIT VM (colab-sbx-64). Control will be port 6005 and intervention will
+be port 6004.
+
+#### Deploy Intervention
+```
+#adding this image so that we have a vim to play with inside the container
+docker build -t nginx/vim .
+
+docker run -d -p 6005:80 \
+-v $(pwd):/usr/share/nginx/html2 \
+-v $(pwd)/nginx_conf_control:/etc/nginx \
+--name kairx_control \
+--restart=always \
+nginx/vim
+
+docker run -d -p 6004:80 \
+-v $(pwd):/usr/share/nginx/html2 \
+-v $(pwd)/nginx_conf_intervention:/etc/nginx \
+--name kairx_intervention \
+--restart=always \
+nginx/vim
+```

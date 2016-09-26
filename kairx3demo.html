@@ -22,7 +22,7 @@
     <script src="https://storage.googleapis.com/code.getmdl.io/1.0.2/material.min.js"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <script data-require="jquery@*" data-semver="2.0.3" src="https://code.jquery.com/jquery-2.0.3.min.js"></script>
-    <script src="https://cdn.optimizely.com/js/6265170402.js"></script>
+    <script src="https://cdn.optimizely.com/js/7000220720.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
     <link rel="stylesheet" href="./assets/css/layout.css">
     <link rel="stylesheet" href="./win98.css">
@@ -79,7 +79,7 @@
           <div class="mdl-cell mdl-cell--3-col">
             <div id="ptmrn" class="ptheader">MRN:</div>
             <br><br>
-            <div id="ptdob" class="ptheader">DOB:</div> 
+            <div id="ptdob" class="ptheader">DOB:</div>
           </div>
 
           <div class="mdl-cell mdl-cell--3-col">
@@ -87,7 +87,7 @@
             <br><br>
             <div id="ptage" class="ptheader">AGE:</div>
           </div>
-          
+
           <div class="mdl-cell mdl-cell--3-col">
             <div id="ptwt" class="ptheader">WEIGHT:</div>
             <br><br>
@@ -98,10 +98,10 @@
         </div>
       </header>
 
-     
+
 
       <main class="mdl-color--grey-100">
-          
+
 
 
 
@@ -120,11 +120,11 @@
 
           <div id="cond-drug"> </div>
           <div class="demo-graphs mdl-shadow--2dp mdl-color--white mdl-cell mdl-cell--12-col" id="rx_plot">
-           
-            <div style="width:90%;">    
+
+            <div style="width:90%;">
               <div style="float:left; margin-left: 50px; border:1px solid red; ">
                   <div id="timer" class="mdl-layout-title" style="margin-top: 5px; margin-bottom: 5px; margin-left: 2px; margin-right: 2px; font-weight: bold;  color: red; " >2:00</div>
-              </div>  
+              </div>
 
               <div style="float:right;">
                   <div class="mdl-layout-spacer"></div>
@@ -144,14 +144,14 @@
             </div>
 
           </div>
-           
+
           <br><br>
           <section class="interactive_content">
 
             <div class="win98" style="width:100%;">
               <br>
               <div class="win98 resizable win98 window">
-                  <div style="width:90%; margin-left: 5%;"> 
+                  <div style="width:90%; margin-left: 5%;">
                     <div style="width:49%; float:left;">
                       <div style="width:49%; float:left;">
                         <div class="win98 header" style="width:45%; float:left; border-radius: 3px;">
@@ -208,7 +208,7 @@
           </section>
         </div>
       </main>
-    </div>     
+    </div>
     <script>
       document.getElementById("timelineFrame").focus();
     </script>
@@ -240,16 +240,16 @@
                   //     })
                   // }
                   if(mins > 1){
-       
+
                      // countdown(mins-1);   never reach “00″ issue solved:Contributed by Victor Streithorst
                      setTimeout(function () { countdown(mins - 1); }, 1000);
-       
+
                   }
               }
           }
           tick();
       }
-       
+
       countdown(2);
 
 
@@ -418,7 +418,7 @@
                   });
                   negButton.appendTo(buttonBar);
               }
-              
+
 
 
               buttonBar.appendTo(content);
@@ -481,11 +481,11 @@
           if (options.provider != null) {
               $('<p>  <span style="font-weight:bold;">Provider: </span>' + options.provider + '</p><br>').appendTo(content);
           }
-          
+
           if (options.dose != null) {
               $('<p>  <span style="font-weight:bold;">Ordered Dose: </span>' + options.dose + '</p><br>').appendTo(content);
           }
-          
+
           if (options.sDate != null) {
               $('<p>  <span style="font-weight:bold;">Start Date: </span>' + options.sDate + '</p><br>').appendTo(content);
           }
@@ -579,10 +579,10 @@
                         negative: true,
                         positive: true
                     })
-         
+
       };
   </script>
-  
+
   <script>
     document.getElementById("helpbtn").onclick = function () {
         showExitDialog({

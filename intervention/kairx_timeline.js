@@ -73,2934 +73,2972 @@ var newInfo = {
         }
     },
     "medications": [
-  {
-    "Condition": "Gout",
-    "DrugType": "XO-I",
-    "MedicationName": "Allopurinol",
-    "DosagePerDay": "100 mg",
-    "Instructions": "Take one 100 mg tablet/day for 10 days.",
-    "Days": 10,
-    "DateStarted": "2004-02-18",
-    "Excel Start Date": "2/18/04",
-    "Excel End Date": "2/28/04",
-    "DateEnded": "2004-02-28",
-    "Provider": "Dr. Bradley",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Gout",
-    "DrugType": "XO-I",
-    "MedicationName": "Allopurinol",
-    "DosagePerDay": "100 mg",
-    "Instructions": "Take one 100 mg tablet/day for 30 days.",
-    "Days": 90,
-    "DateStarted": "2004-02-28",
-    "Excel Start Date": "2/28/04",
-    "Excel End Date": "5/28/04",
-    "DateEnded": "2004-05-28",
-    "Provider": "Dr. Bradley",
-    "Refills": 2,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Gout",
-    "DrugType": "XO-I",
-    "MedicationName": "Allopurinol",
-    "DosagePerDay": "100 mg",
-    "Instructions": "Take one 100 mg tablet/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2004-05-30",
-    "Excel Start Date": "5/30/04",
-    "Excel End Date": "5/30/05",
-    "DateEnded": "2005-05-30",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Gout",
-    "DrugType": "XO-I",
-    "MedicationName": "Allopurinol",
-    "DosagePerDay": "100 mg",
-    "Instructions": "Take one 100 mg tablet/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2005-05-31",
-    "Excel Start Date": "5/31/05",
-    "Excel End Date": "5/31/06",
-    "DateEnded": "2006-05-30",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Gout",
-    "DrugType": "XO-I",
-    "MedicationName": "Allopurinol",
-    "DosagePerDay": "100 mg",
-    "Instructions": "Take one 100 mg tablet/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2006-05-31",
-    "Excel Start Date": "5/31/06",
-    "Excel End Date": "5/31/07",
-    "DateEnded": "2007-05-31",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Gout",
-    "DrugType": "XO-I",
-    "MedicationName": "Allopurinol",
-    "DosagePerDay": "100 mg",
-    "Instructions": "Take one 100 mg tablet/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2007-05-31",
-    "Excel Start Date": "5/31/07",
-    "Excel End Date": "5/30/08",
-    "DateEnded": "2008-05-30",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Gout",
-    "DrugType": "XO-I",
-    "MedicationName": "Allopurinol",
-    "DosagePerDay": "100 mg",
-    "Instructions": "Take one 100 mg tablet/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2008-05-31",
-    "Excel Start Date": "5/31/08",
-    "Excel End Date": "5/31/09",
-    "DateEnded": "2009-05-31",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Gout",
-    "DrugType": "XO-I",
-    "MedicationName": "Allopurinol",
-    "DosagePerDay": "100 mg",
-    "Instructions": "Take one 100 mg tablet/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2009-05-31",
-    "Excel Start Date": "5/31/09",
-    "Excel End Date": "5/31/10",
-    "DateEnded": "2010-05-31",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Gout",
-    "DrugType": "XO-I",
-    "MedicationName": "Allopurinol",
-    "DosagePerDay": "100 mg",
-    "Instructions": "Take one 100 mg tablet/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2010-05-31",
-    "Excel Start Date": "5/31/10",
-    "Excel End Date": "5/31/11",
-    "DateEnded": "2011-05-31",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Gout",
-    "DrugType": "XO-I",
-    "MedicationName": "Allopurinol",
-    "DosagePerDay": "100 mg",
-    "Instructions": "Take one 100 mg tablet/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2011-05-31",
-    "Excel Start Date": "5/31/11",
-    "Excel End Date": "5/30/12",
-    "DateEnded": "2012-05-30",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Gout",
-    "DrugType": "XO-I",
-    "MedicationName": "Allopurinol",
-    "DosagePerDay": "100 mg",
-    "Instructions": "Take one 100 mg tablet/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2012-05-31",
-    "Excel Start Date": "5/31/12",
-    "Excel End Date": "5/31/13",
-    "DateEnded": "2013-05-30",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Gout",
-    "DrugType": "XO-I",
-    "MedicationName": "Allopurinol",
-    "DosagePerDay": "100 mg",
-    "Instructions": "Take one 100 mg tablet/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2013-05-31",
-    "Excel Start Date": "5/31/13",
-    "Excel End Date": "5/31/14",
-    "DateEnded": "2014-05-31",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Gout",
-    "DrugType": "XO-I",
-    "MedicationName": "Allopurinol",
-    "DosagePerDay": "100 mg",
-    "Instructions": "Take one 100 mg tablet/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2014-05-31",
-    "Excel Start Date": "5/31/14",
-    "Excel End Date": "5/31/15",
-    "DateEnded": "2015-05-31",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Gout",
-    "DrugType": "XO-I",
-    "MedicationName": "Allopurinol",
-    "DosagePerDay": "200 mg",
-    "Instructions": "Take one 200 mg tablet/day for 30 days.",
-    "Days": 180,
-    "DateStarted": "2015-07-07",
-    "Excel Start Date": "7/7/15",
-    "Excel End Date": "1/3/16",
-    "DateEnded": "2016-01-03",
-    "Provider": "Dr. Emerman",
-    "Refills": 5,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Gout",
-    "DrugType": "XO-I",
-    "MedicationName": "Allopurinol",
-    "DosagePerDay": "200 mg",
-    "Instructions": "Take one 200 mg tablet/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2016-01-08",
-    "Excel Start Date": "1/8/16",
-    "Excel End Date": "1/7/17",
-    "DateEnded": "2017-01-07",
-    "Provider": "Dr. Emerman",
-    "Refills": 11,
-    "FillStatus": "Not filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "CCB",
-    "MedicationName": "Amlodipine",
-    "DosagePerDay": "5 mg",
-    "Instructions": "Take one 5 mg tablet/day for 30 days.",
-    "Days": 30,
-    "DateStarted": "2008-09-29",
-    "Excel Start Date": "9/29/08",
-    "Excel End Date": "10/29/08",
-    "DateEnded": "2008-10-29",
-    "Provider": "Dr. Bradley",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "CCB",
-    "MedicationName": "Amlodipine",
-    "DosagePerDay": "5 mg",
-    "Instructions": "Take one 5 mg tablet/day for 30 days.",
-    "Days": 180,
-    "DateStarted": "2010-10-30",
-    "Excel Start Date": "10/30/10",
-    "Excel End Date": "4/28/11",
-    "DateEnded": "2011-04-28",
-    "Provider": "Dr. Bradley",
-    "Refills": 5,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "CCB",
-    "MedicationName": "Amlodipine",
-    "DosagePerDay": "10 mg",
-    "Instructions": "Take two 5 mg tablets for a total of 10 mg/day for 30 days.",
-    "Days": 30,
-    "DateStarted": "2011-04-30",
-    "Excel Start Date": "4/30/11",
-    "Excel End Date": "5/30/11",
-    "DateEnded": "2011-05-30",
-    "Provider": "Dr. Bradley",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "CCB",
-    "MedicationName": "Amlodipine",
-    "DosagePerDay": "10 mg",
-    "Instructions": "Take two 5 mg tablets for a total of 10 mg/day for 30 days.",
-    "Days": 180,
-    "DateStarted": "2012-05-31",
-    "Excel Start Date": "5/31/12",
-    "Excel End Date": "11/27/12",
-    "DateEnded": "2012-11-27",
-    "Provider": "Dr. Bradley",
-    "Refills": 5,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "CCB",
-    "MedicationName": "Amlodipine",
-    "DosagePerDay": "10 mg",
-    "Instructions": "Take two 5 mg tablets for a total of 10 mg/day for 30 days.",
-    "Days": 180,
-    "DateStarted": "2012-11-28",
-    "Excel Start Date": "11/28/12",
-    "Excel End Date": "5/27/13",
-    "DateEnded": "2013-05-27",
-    "Provider": "Dr. Bradley",
-    "Refills": 5,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "CCB",
-    "MedicationName": "Amlodipine",
-    "DosagePerDay": "10 mg",
-    "Instructions": "Take two 5 mg tablets for a total of 10 mg/day for 30 days.",
-    "Days": 180,
-    "DateStarted": "2013-05-28",
-    "Excel Start Date": "5/28/13",
-    "Excel End Date": "11/24/13",
-    "DateEnded": "2014-11-24",
-    "Provider": "Dr. Bradley",
-    "Refills": 5,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "CCB",
-    "MedicationName": "Amlodipine",
-    "DosagePerDay": "10 mg",
-    "Instructions": "Take two 5 mg tablets for a total of 10 mg/day for 30 days.",
-    "Days": 180,
-    "DateStarted": "2014-11-25",
-    "Excel Start Date": "11/25/14",
-    "Excel End Date": "5/24/15",
-    "DateEnded": "2015-05-23",
-    "Provider": "Dr. Bradley",
-    "Refills": 5,
-    "FillStatus": "Not filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "CCB",
-    "MedicationName": "Amlodipine",
-    "DosagePerDay": "10 mg",
-    "Instructions": "Take two 5 mg tablets for a total of 10 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2015-05-24",
-    "Excel Start Date": "5/24/15",
-    "Excel End Date": "5/23/16",
-    "DateEnded": "2016-05-23",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Not filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "CCB",
-    "MedicationName": "Amlodipine",
-    "DosagePerDay": "10 mg",
-    "Instructions": "Take two 5 mg tablets for a total of 10 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2016-05-24",
-    "Excel Start Date": "5/24/16",
-    "Excel End Date": "5/24/17",
-    "DateEnded": "2017-05-24",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Not filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Pneumonia",
-    "DrugType": "Macrolide",
-    "MedicationName": "Azithromycin",
-    "DosagePerDay": "500 mg/ 250 mg",
-    "Instructions": "Take one dose of 500 mg PO, then 250 mg PO for 4 days.",
-    "Days": 5,
-    "DateStarted": "2012-12-07",
-    "Excel Start Date": "12/7/12",
-    "Excel End Date": "12/12/12",
-    "DateEnded": "2012-12-12",
-    "Provider": "Dr. Emerman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "Atypical",
-    "MedicationName": "Bupropion XR",
-    "DosagePerDay": "150 mg",
-    "Instructions": "Take one tablet of 150 mg in the morning each day, if tolerated, as early as day 4, increase to two tablets in the morning each day for a total of 300 mg/day for 30 days.",
-    "Days": 30,
-    "DateStarted": "2006-12-17",
-    "Excel Start Date": "12/17/06",
-    "Excel End Date": "1/16/07",
-    "DateEnded": "2006-01-16",
-    "Provider": "Dr. Bradley",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "Atypical",
-    "MedicationName": "Bupropion XR",
-    "DosagePerDay": "300 mg",
-    "Instructions": "Take two tablets of 150 mg in the morning each day for a total of 300 mg/day for 30 days.",
-    "Days": 30,
-    "DateStarted": "2007-01-18",
-    "Excel Start Date": "1/18/07",
-    "Excel End Date": "2/17/07",
-    "DateEnded": "2007-02-17",
-    "Provider": "Dr. Bradley",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "Atypical",
-    "MedicationName": "Bupropion XR",
-    "DosagePerDay": "300 mg",
-    "Instructions": "Take two tablets of 150 mg in the morning each day for a total of 300 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2007-02-18",
-    "Excel Start Date": "2/18/07",
-    "Excel End Date": "2/18/08",
-    "DateEnded": "2008-02-18",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "Atypical",
-    "MedicationName": "Bupropion XR",
-    "DosagePerDay": "300 mg",
-    "Instructions": "Take two tablets of 150 mg in the morning each day for a total of 300 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2008-02-18",
-    "Excel Start Date": "2/18/08",
-    "Excel End Date": "2/17/09",
-    "DateEnded": "2009-02-17",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "Atypical",
-    "MedicationName": "Bupropion XR",
-    "DosagePerDay": "300 mg",
-    "Instructions": "Take two tablets of 150 mg in the morning each day for a total of 300 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2009-02-18",
-    "Excel Start Date": "2/18/09",
-    "Excel End Date": "2/18/10",
-    "DateEnded": "2010-02-18",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "Atypical",
-    "MedicationName": "Bupropion XR",
-    "DosagePerDay": "300 mg",
-    "Instructions": "Take two tablets of 150 mg in the morning each day for a total of 300 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2010-02-18",
-    "Excel Start Date": "2/18/10",
-    "Excel End Date": "2/18/11",
-    "DateEnded": "2011-02-18",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "Atypical",
-    "MedicationName": "Bupropion XR",
-    "DosagePerDay": "300 mg",
-    "Instructions": "Take two tablets of 150 mg in the morning each day for a total of 300 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2011-02-18",
-    "Excel Start Date": "2/18/11",
-    "Excel End Date": "2/18/12",
-    "DateEnded": "2012-02-18",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "Atypical",
-    "MedicationName": "Bupropion XR",
-    "DosagePerDay": "300 mg",
-    "Instructions": "Take two tablets of 150 mg in the morning each day for a total of 300 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2012-02-18",
-    "Excel Start Date": "2/18/12",
-    "Excel End Date": "2/17/13",
-    "DateEnded": "2013-02-18",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "Atypical",
-    "MedicationName": "Bupropion XR",
-    "DosagePerDay": "300 mg",
-    "Instructions": "Take two tablets of 150 mg in the morning each day for a total of 300 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2013-02-18",
-    "Excel Start Date": "2/18/13",
-    "Excel End Date": "2/18/14",
-    "DateEnded": "2014-02-18",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "Atypical",
-    "MedicationName": "Bupropion XR",
-    "DosagePerDay": "300 mg",
-    "Instructions": "Take two tablets of 150 mg in the morning each day for a total of 300 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2014-02-18",
-    "Excel Start Date": "2/18/14",
-    "Excel End Date": "2/18/15",
-    "DateEnded": "2015-02-18",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "Atypical",
-    "MedicationName": "Bupropion XR",
-    "DosagePerDay": "300 mg",
-    "Instructions": "Take two tablets of 150 mg in the morning each day for a total of 300 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2015-02-18",
-    "Excel Start Date": "2/18/15",
-    "Excel End Date": "2/18/16",
-    "DateEnded": "2016-02-18",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Active",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "Atypical",
-    "MedicationName": "Bupropion XR",
-    "DosagePerDay": "300 mg",
-    "Instructions": "Take two tablets of 150 mg in the morning each day for a total of 300 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2016-02-18",
-    "Excel Start Date": "2/18/16",
-    "Excel End Date": "2/17/17",
-    "DateEnded": "2017-02-17",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Active",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "SCLC",
-    "DrugType": "Alkylating agent",
-    "MedicationName": "Carboplatin",
-    "DosagePerDay": "570 mg",
-    "Instructions": "Give target AUC 5 IV every 3 weeks (in combination with irinotecan) for 6 cycles.",
-    "Days": 21,
-    "DateStarted": "2008-07-04",
-    "Excel Start Date": "7/4/08",
-    "Excel End Date": "7/25/08",
-    "DateEnded": "2008-07-25",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "IV",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "SCLC",
-    "DrugType": "Alkylating agent",
-    "MedicationName": "Carboplatin",
-    "DosagePerDay": "570 mg",
-    "Instructions": "Give target AUC 5 IV every 3 weeks (in combination with irinotecan) for 6 cycles.",
-    "Days": 21,
-    "DateStarted": "2008-07-26",
-    "Excel Start Date": "7/26/08",
-    "Excel End Date": "8/16/08",
-    "DateEnded": "2008-08-16",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "IV",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "SCLC",
-    "DrugType": "Alkylating agent",
-    "MedicationName": "Carboplatin",
-    "DosagePerDay": "570 mg",
-    "Instructions": "Give target AUC 5 IV every 3 weeks (in combination with irinotecan) for 6 cycles.",
-    "Days": 21,
-    "DateStarted": "2008-08-17",
-    "Excel Start Date": "8/17/08",
-    "Excel End Date": "9/7/08",
-    "DateEnded": "2008-09-07",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "IV",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "SCLC",
-    "DrugType": "Alkylating agent",
-    "MedicationName": "Carboplatin",
-    "DosagePerDay": "570 mg",
-    "Instructions": "Give target AUC 5 IV every 3 weeks (in combination with irinotecan) for 6 cycles.",
-    "Days": 21,
-    "DateStarted": "2008-09-08",
-    "Excel Start Date": "9/8/08",
-    "Excel End Date": "9/29/08",
-    "DateEnded": "2008-09-29",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "IV",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "SCLC",
-    "DrugType": "Alkylating agent",
-    "MedicationName": "Carboplatin",
-    "DosagePerDay": "570 mg",
-    "Instructions": "Give target AUC 5 IV every 3 weeks (in combination with irinotecan) for 6 cycles.",
-    "Days": 21,
-    "DateStarted": "2008-09-30",
-    "Excel Start Date": "9/30/08",
-    "Excel End Date": "10/21/08",
-    "DateEnded": "2008-10-21",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "IV",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "SCLC",
-    "DrugType": "Alkylating agent",
-    "MedicationName": "Carboplatin",
-    "DosagePerDay": "570 mg",
-    "Instructions": "Give target AUC 5 IV every 3 weeks (in combination with irinotecan) for 6 cycles.",
-    "Days": 21,
-    "DateStarted": "2008-10-22",
-    "Excel Start Date": "10/22/08",
-    "Excel End Date": "11/12/08",
-    "DateEnded": "2008-11-12",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "IV",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "SCLC",
-    "DrugType": "Alkylating agent",
-    "MedicationName": "Cisplatin",
-    "DosagePerDay": "120 mg",
-    "Instructions": "Give 60mg/m2 IV on day 1 every 3 weeks for 4 cycles.",
-    "Days": 21,
-    "DateStarted": "2007-02-22",
-    "Excel Start Date": "2/22/07",
-    "Excel End Date": "3/15/07",
-    "DateEnded": "2007-03-15",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "IV",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "SCLC",
-    "DrugType": "Alkylating agent",
-    "MedicationName": "Cisplatin",
-    "DosagePerDay": "120 mg",
-    "Instructions": "Give 60mg/m2 IV on day 1 every 3 weeks for 4 cycles.",
-    "Days": 21,
-    "DateStarted": "2007-03-16",
-    "Excel Start Date": "3/16/07",
-    "Excel End Date": "4/6/07",
-    "DateEnded": "2007-04-06",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "IV",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "SCLC",
-    "DrugType": "Alkylating agent",
-    "MedicationName": "Cisplatin",
-    "DosagePerDay": "120 mg",
-    "Instructions": "Give 60mg/m2 IV on day 1 every 3 weeks for 4 cycles.",
-    "Days": 21,
-    "DateStarted": "2007-04-07",
-    "Excel Start Date": "4/7/07",
-    "Excel End Date": "4/28/07",
-    "DateEnded": "2007-04-28",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "IV",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "SCLC",
-    "DrugType": "Alkylating agent",
-    "MedicationName": "Cisplatin",
-    "DosagePerDay": "120 mg",
-    "Instructions": "Give 60mg/m2 IV on day 1 every 3 weeks for 4 cycles.",
-    "Days": 21,
-    "DateStarted": "2007-04-29",
-    "Excel Start Date": "4/29/07",
-    "Excel End Date": "5/20/07",
-    "DateEnded": "2007-05-20",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "IV",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "Gout",
-    "DrugType": "Alkaloid",
-    "MedicationName": "Colchicine",
-    "DosagePerDay": "1.8 mg",
-    "Instructions": "Take 1.2 mg then 0.6 mg single dose 1 hour after first dose.",
-    "Days": 1,
-    "DateStarted": "1999-05-05",
-    "Excel Start Date": "5/5/99",
-    "Excel End Date": "5/6/99",
-    "DateEnded": "1999-05-06",
-    "Provider": "Dr. Montana",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Gout",
-    "DrugType": "Alkaloid",
-    "MedicationName": "Colchicine",
-    "DosagePerDay": "1.8 mg",
-    "Instructions": "Take 1.2 mg then 0.6 mg single dose 1 hour after first dose.",
-    "Days": 1,
-    "DateStarted": "2004-02-18",
-    "Excel Start Date": "2/18/04",
-    "Excel End Date": "2/19/04",
-    "DateEnded": "2004-02-19",
-    "Provider": "Dr. Bradley",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Gout",
-    "DrugType": "Alkaloid",
-    "MedicationName": "Colchicine",
-    "DosagePerDay": "1.8 mg",
-    "Instructions": "Take 1.2 mg then 0.6 mg single dose 1 hour after first dose.",
-    "Days": 1,
-    "DateStarted": "2014-07-07",
-    "Excel Start Date": "7/7/14",
-    "Excel End Date": "7/8/14",
-    "DateEnded": "2014-07-08",
-    "Provider": "Dr. Emerman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "SCLC",
-    "DrugType": "Topoisomerase II Inhibitor",
-    "MedicationName": "Etoposide",
-    "DosagePerDay": "200 mg",
-    "Instructions": "Give 100 mg/m2/day IV on days 1, 2, and 3 every 3 weeks up to a maximum of 6 cycles.",
-    "Days": 21,
-    "DateStarted": "2007-02-22",
-    "Excel Start Date": "2/22/07",
-    "Excel End Date": "3/15/07",
-    "DateEnded": "2007-03-15",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "IV",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "SCLC",
-    "DrugType": "Topoisomerase II Inhibitor",
-    "MedicationName": "Etoposide",
-    "DosagePerDay": "200 mg",
-    "Instructions": "Give 100 mg/m2/day IV on days 1, 2, and 3 every 3 weeks up to a maximum of 6 cycles.",
-    "Days": 21,
-    "DateStarted": "2007-03-16",
-    "Excel Start Date": "3/16/07",
-    "Excel End Date": "4/6/07",
-    "DateEnded": "2007-04-06",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "IV",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "SCLC",
-    "DrugType": "Topoisomerase II Inhibitor",
-    "MedicationName": "Etoposide",
-    "DosagePerDay": "200 mg",
-    "Instructions": "Give 100 mg/m2/day IV on days 1, 2, and 3 every 3 weeks up to a maximum of 6 cycles.",
-    "Days": 21,
-    "DateStarted": "2007-04-07",
-    "Excel Start Date": "4/7/07",
-    "Excel End Date": "4/28/07",
-    "DateEnded": "2007-04-28",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "IV",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "SCLC",
-    "DrugType": "Topoisomerase II Inhibitor",
-    "MedicationName": "Etoposide",
-    "DosagePerDay": "200 mg",
-    "Instructions": "Give 100 mg/m2/day IV on days 1, 2, and 3 every 3 weeks up to a maximum of 6 cycles.",
-    "Days": 21,
-    "DateStarted": "2007-04-29",
-    "Excel Start Date": "4/29/07",
-    "Excel End Date": "5/20/07",
-    "DateEnded": "2007-05-20",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "IV",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "SCLC",
-    "DrugType": "Topoisomerase II Inhibitor",
-    "MedicationName": "Etoposide",
-    "DosagePerDay": "200 mg",
-    "Instructions": "Give 100 mg/m2/day IV on days 1, 2, and 3 every 3 weeks up to a maximum of 6 cycles.",
-    "Days": 21,
-    "DateStarted": "2007-05-21",
-    "Excel Start Date": "5/21/07",
-    "Excel End Date": "6/11/07",
-    "DateEnded": "2007-06-11",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "IV",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "SCLC",
-    "DrugType": "Topoisomerase II Inhibitor",
-    "MedicationName": "Etoposide",
-    "DosagePerDay": "200 mg",
-    "Instructions": "Give 100 mg/m2/day IV on days 1, 2, and 3 every 3 weeks up to a maximum of 6 cycles.",
-    "Days": 21,
-    "DateStarted": "2007-06-12",
-    "Excel Start Date": "6/12/07",
-    "Excel End Date": "7/3/07",
-    "DateEnded": "2007-07-03",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "IV",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "SSRI",
-    "MedicationName": "Fluoxetine",
-    "DosagePerDay": "20 mg",
-    "Instructions": "Take one 20 mg tablet/day for 30 days.",
-    "Days": 30,
-    "DateStarted": "2000-03-25",
-    "Excel Start Date": "3/25/00",
-    "Excel End Date": "4/24/00",
-    "DateEnded": "2000-04-24",
-    "Provider": "Dr. Bradley",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "SSRI",
-    "MedicationName": "Fluoxetine",
-    "DosagePerDay": "40 mg",
-    "Instructions": "Take two 20 mg tablets/day for a total of 40 mg/day for 30 days.",
-    "Days": 30,
-    "DateStarted": "2000-04-26",
-    "Excel Start Date": "4/26/00",
-    "Excel End Date": "5/26/00",
-    "DateEnded": "2000-05-26",
-    "Provider": "Dr. Bradley",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "SSRI",
-    "MedicationName": "Fluoxetine",
-    "DosagePerDay": "80 mg",
-    "Instructions": "Take four 20 mg tablets/day for a total of 80 mg/day for 30 days.",
-    "Days": 30,
-    "DateStarted": "2000-05-27",
-    "Excel Start Date": "5/27/00",
-    "Excel End Date": "6/26/00",
-    "DateEnded": "2000-06-26",
-    "Provider": "Dr. Bradley",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "Thiazide",
-    "MedicationName": "Hydrochlorothiazide",
-    "DosagePerDay": "12.5 mg",
-    "Instructions": "Take one tablet of 12.5 mg/day for 2 weeks.",
-    "Days": 14,
-    "DateStarted": "1996-08-08",
-    "Excel Start Date": "8/8/96",
-    "Excel End Date": "8/22/96",
-    "DateEnded": "1996-08-22",
-    "Provider": "Dr. Bradley",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "Thiazide",
-    "MedicationName": "Hydrochlorothiazide",
-    "DosagePerDay": "12.5 mg",
-    "Instructions": "Take one tablet of 12.5 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "1996-08-27",
-    "Excel Start Date": "8/27/96",
-    "Excel End Date": "8/27/97",
-    "DateEnded": "1997-08-27",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "Thiazide",
-    "MedicationName": "Hydrochlorothiazide",
-    "DosagePerDay": "12.5 mg",
-    "Instructions": "Take one tablet of 12.5 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "1997-08-27",
-    "Excel Start Date": "8/27/97",
-    "Excel End Date": "8/27/98",
-    "DateEnded": "1998-08-27",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "Thiazide",
-    "MedicationName": "Hydrochlorothiazide",
-    "DosagePerDay": "25 mg",
-    "Instructions": "Take one tablet of 25 mg/day for 2 weeks.",
-    "Days": 14,
-    "DateStarted": "1998-08-27",
-    "Excel Start Date": "8/27/98",
-    "Excel End Date": "9/10/98",
-    "DateEnded": "1998-09-10",
-    "Provider": "Dr. Bradley",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "Thiazide",
-    "MedicationName": "Hydrochlorothiazide",
-    "DosagePerDay": "25 mg",
-    "Instructions": "Take one tablet of 25 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "1998-09-12",
-    "Excel Start Date": "9/12/98",
-    "Excel End Date": "9/12/99",
-    "DateEnded": "1999-09-12",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "Thiazide",
-    "MedicationName": "Hydrochlorothiazide",
-    "DosagePerDay": "25 mg",
-    "Instructions": "Take one tablet of 25 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "1999-09-12",
-    "Excel Start Date": "9/12/99",
-    "Excel End Date": "9/11/00",
-    "DateEnded": "2000-09-11",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "Thiazide",
-    "MedicationName": "Hydrochlorothiazide",
-    "DosagePerDay": "25 mg",
-    "Instructions": "Take one tablet of 25 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2000-09-12",
-    "Excel Start Date": "9/12/00",
-    "Excel End Date": "9/12/01",
-    "DateEnded": "2001-09-12",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "Thiazide",
-    "MedicationName": "Hydrochlorothiazide",
-    "DosagePerDay": "50 mg",
-    "Instructions": "Take one tablet of 50 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2001-09-13",
-    "Excel Start Date": "9/13/01",
-    "Excel End Date": "9/13/02",
-    "DateEnded": "2002-09-13",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "Thiazide",
-    "MedicationName": "Hydrochlorothiazide",
-    "DosagePerDay": "50 mg",
-    "Instructions": "Take one tablet of 50 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2002-09-28",
-    "Excel Start Date": "9/28/02",
-    "Excel End Date": "9/28/03",
-    "DateEnded": "2003-09-28",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "Thiazide",
-    "MedicationName": "Hydrochlorothiazide",
-    "DosagePerDay": "50 mg",
-    "Instructions": "Take one tablet of 50 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2003-09-28",
-    "Excel Start Date": "9/28/03",
-    "Excel End Date": "9/27/04",
-    "DateEnded": "2004-09-27",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "Thiazide",
-    "MedicationName": "Hydrochlorothiazide",
-    "DosagePerDay": "50 mg",
-    "Instructions": "Take one tablet of 50 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2004-09-28",
-    "Excel Start Date": "9/28/04",
-    "Excel End Date": "9/28/05",
-    "DateEnded": "2005-09-28",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "Thiazide",
-    "MedicationName": "Hydrochlorothiazide",
-    "DosagePerDay": "50 mg",
-    "Instructions": "Take one tablet of 50 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2005-09-28",
-    "Excel Start Date": "9/28/05",
-    "Excel End Date": "9/28/06",
-    "DateEnded": "2006-09-28",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "Thiazide",
-    "MedicationName": "Hydrochlorothiazide",
-    "DosagePerDay": "50 mg",
-    "Instructions": "Take one tablet of 50 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2006-09-28",
-    "Excel Start Date": "9/28/06",
-    "Excel End Date": "9/28/07",
-    "DateEnded": "2007-09-28",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "Thiazide",
-    "MedicationName": "Hydrochlorothiazide",
-    "DosagePerDay": "50 mg",
-    "Instructions": "Take one tablet of 50 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2007-09-28",
-    "Excel Start Date": "9/28/07",
-    "Excel End Date": "9/27/08",
-    "DateEnded": "2008-09-27",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "Thiazide",
-    "MedicationName": "Hydrochlorothiazide",
-    "DosagePerDay": "50 mg",
-    "Instructions": "Take one tablet of 50 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2008-09-28",
-    "Excel Start Date": "9/28/08",
-    "Excel End Date": "9/28/09",
-    "DateEnded": "2009-09-28",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "Thiazide",
-    "MedicationName": "Hydrochlorothiazide",
-    "DosagePerDay": "50 mg",
-    "Instructions": "Take one tablet of 50 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2009-09-28",
-    "Excel Start Date": "9/28/09",
-    "Excel End Date": "9/28/10",
-    "DateEnded": "2010-09-28",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "Thiazide",
-    "MedicationName": "Hydrochlorothiazide",
-    "DosagePerDay": "50 mg",
-    "Instructions": "Take one tablet of 50 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2010-09-28",
-    "Excel Start Date": "9/28/10",
-    "Excel End Date": "9/28/11",
-    "DateEnded": "2011-09-28",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "Thiazide",
-    "MedicationName": "Hydrochlorothiazide",
-    "DosagePerDay": "50 mg",
-    "Instructions": "Take one tablet of 50 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2011-09-28",
-    "Excel Start Date": "9/28/11",
-    "Excel End Date": "9/27/12",
-    "DateEnded": "2012-09-27",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "Thiazide",
-    "MedicationName": "Hydrochlorothiazide",
-    "DosagePerDay": "50 mg",
-    "Instructions": "Take one tablet of 50 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2012-09-28",
-    "Excel Start Date": "9/28/12",
-    "Excel End Date": "9/28/13",
-    "DateEnded": "2013-09-28",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "Thiazide",
-    "MedicationName": "Hydrochlorothiazide",
-    "DosagePerDay": "50 mg",
-    "Instructions": "Take one tablet of 50 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2013-09-28",
-    "Excel Start Date": "9/28/13",
-    "Excel End Date": "9/28/14",
-    "DateEnded": "2014-09-28",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "Thiazide",
-    "MedicationName": "Hydrochlorothiazide",
-    "DosagePerDay": "50 mg",
-    "Instructions": "Take one tablet of 50 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2014-09-28",
-    "Excel Start Date": "9/28/14",
-    "Excel End Date": "9/28/15",
-    "DateEnded": "2015-09-28",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "Thiazide",
-    "MedicationName": "Hydrochlorothiazide",
-    "DosagePerDay": "50 mg",
-    "Instructions": "Take one tablet of 50 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2015-09-28",
-    "Excel Start Date": "9/28/15",
-    "Excel End Date": "9/27/16",
-    "DateEnded": "2016-09-27",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "SCLC",
-    "DrugType": "Topoisomerase I Inhibitor",
-    "MedicationName": "Irinotecan",
-    "DosagePerDay": "350 mg",
-    "Instructions": "Give 175 mg/m2 IV day 1 every 3 weeks (in combination with carboplatin) for 6 cycles.",
-    "Days": 21,
-    "DateStarted": "2008-07-04",
-    "Excel Start Date": "7/4/08",
-    "Excel End Date": "7/25/08",
-    "DateEnded": "2008-07-25",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "",
-    "Frequency": "",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "SCLC",
-    "DrugType": "Topoisomerase I Inhibitor",
-    "MedicationName": "Irinotecan",
-    "DosagePerDay": "350 mg",
-    "Instructions": "Give 175 mg/m2 IV day 1 every 3 weeks (in combination with carboplatin) for 6 cycles.",
-    "Days": 21,
-    "DateStarted": "2008-07-26",
-    "Excel Start Date": "7/26/08",
-    "Excel End Date": "8/16/08",
-    "DateEnded": "2008-08-16",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "",
-    "Frequency": "",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "SCLC",
-    "DrugType": "Topoisomerase I Inhibitor",
-    "MedicationName": "Irinotecan",
-    "DosagePerDay": "350 mg",
-    "Instructions": "Give 175 mg/m2 IV day 1 every 3 weeks (in combination with carboplatin) for 6 cycles.",
-    "Days": 21,
-    "DateStarted": "2008-08-17",
-    "Excel Start Date": "8/17/08",
-    "Excel End Date": "9/7/08",
-    "DateEnded": "2008-09-07",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "",
-    "Frequency": "",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "SCLC",
-    "DrugType": "Topoisomerase I Inhibitor",
-    "MedicationName": "Irinotecan",
-    "DosagePerDay": "350 mg",
-    "Instructions": "Give 175 mg/m2 IV day 1 every 3 weeks (in combination with carboplatin) for 6 cycles.",
-    "Days": 21,
-    "DateStarted": "2008-09-08",
-    "Excel Start Date": "9/8/08",
-    "Excel End Date": "9/29/08",
-    "DateEnded": "2008-09-29",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "",
-    "Frequency": "",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "SCLC",
-    "DrugType": "Topoisomerase I Inhibitor",
-    "MedicationName": "Irinotecan",
-    "DosagePerDay": "350 mg",
-    "Instructions": "Give 175 mg/m2 IV day 1 every 3 weeks (in combination with carboplatin) for 6 cycles.",
-    "Days": 21,
-    "DateStarted": "2008-09-30",
-    "Excel Start Date": "9/30/08",
-    "Excel End Date": "10/21/08",
-    "DateEnded": "2008-10-21",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "",
-    "Frequency": "",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "SCLC",
-    "DrugType": "Topoisomerase I Inhibitor",
-    "MedicationName": "Irinotecan",
-    "DosagePerDay": "350 mg",
-    "Instructions": "Give 175 mg/m2 IV day 1 every 3 weeks (in combination with carboplatin) for 6 cycles.",
-    "Days": 21,
-    "DateStarted": "2008-10-22",
-    "Excel Start Date": "10/22/08",
-    "Excel End Date": "11/12/08",
-    "DateEnded": "2008-11-12",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "",
-    "Frequency": "",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "ACE-I",
-    "MedicationName": "Lisinopril",
-    "DosagePerDay": "20 mg",
-    "Instructions": "Take a 20 mg tablet/day for 30 days.",
-    "Days": 30,
-    "DateStarted": "2006-09-29",
-    "Excel Start Date": "9/29/06",
-    "Excel End Date": "10/29/06",
-    "DateEnded": "2006-10-29",
-    "Provider": "Dr. Bradley",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "ACE-I",
-    "MedicationName": "Lisinopril",
-    "DosagePerDay": "20 mg",
-    "Instructions": "Take a 20 mg tablet/day for 30 days.",
-    "Days": 180,
-    "DateStarted": "2006-10-30",
-    "Excel Start Date": "10/30/06",
-    "Excel End Date": "4/28/07",
-    "DateEnded": "2007-04-28",
-    "Provider": "Dr. Bradley",
-    "Refills": 5,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "ACE-I",
-    "MedicationName": "Lisinopril",
-    "DosagePerDay": "40 mg",
-    "Instructions": "Take two 20 mg tablets for a total of 40mg/day for 30 days.",
-    "Days": 30,
-    "DateStarted": "2007-04-30",
-    "Excel Start Date": "4/30/07",
-    "Excel End Date": "5/30/07",
-    "DateEnded": "2007-05-30",
-    "Provider": "Dr. Bradley",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "ACE-I",
-    "MedicationName": "Lisinopril",
-    "DosagePerDay": "40 mg",
-    "Instructions": "Take two 20 mg tablets for a total of 40mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2007-05-31",
-    "Excel Start Date": "5/31/07",
-    "Excel End Date": "5/30/08",
-    "DateEnded": "2008-05-30",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "ACE-I",
-    "MedicationName": "Lisinopril",
-    "DosagePerDay": "40 mg",
-    "Instructions": "Take two 20 mg tablets for a total of 40mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2008-05-31",
-    "Excel Start Date": "5/31/08",
-    "Excel End Date": "5/31/09",
-    "DateEnded": "2009-05-31",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "ACE-I",
-    "MedicationName": "Lisinopril",
-    "DosagePerDay": "40 mg",
-    "Instructions": "Take two 20 mg tablets for a total of 40mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2009-05-31",
-    "Excel Start Date": "5/31/09",
-    "Excel End Date": "5/31/10",
-    "DateEnded": "2010-05-31",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "ACE-I",
-    "MedicationName": "Lisinopril",
-    "DosagePerDay": "40 mg",
-    "Instructions": "Take two 20 mg tablets for a total of 40mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2010-05-31",
-    "Excel Start Date": "5/31/10",
-    "Excel End Date": "5/31/11",
-    "DateEnded": "2011-05-31",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "ACE-I",
-    "MedicationName": "Lisinopril",
-    "DosagePerDay": "40 mg",
-    "Instructions": "Take two 20 mg tablets for a total of 40mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2011-05-31",
-    "Excel Start Date": "5/31/11",
-    "Excel End Date": "5/30/12",
-    "DateEnded": "2012-05-30",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "ACE-I",
-    "MedicationName": "Lisinopril",
-    "DosagePerDay": "40 mg",
-    "Instructions": "Take two 20 mg tablets for a total of 40mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2012-05-31",
-    "Excel Start Date": "5/31/12",
-    "Excel End Date": "5/31/13",
-    "DateEnded": "2013-05-31",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "ACE-I",
-    "MedicationName": "Lisinopril",
-    "DosagePerDay": "40 mg",
-    "Instructions": "Take two 20 mg tablets for a total of 40mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2013-05-31",
-    "Excel Start Date": "5/31/13",
-    "Excel End Date": "5/31/14",
-    "DateEnded": "2014-05-31",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "ACE-I",
-    "MedicationName": "Lisinopril",
-    "DosagePerDay": "40 mg",
-    "Instructions": "Take two 20 mg tablets for a total of 40mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2014-05-31",
-    "Excel Start Date": "5/31/14",
-    "Excel End Date": "5/31/15",
-    "DateEnded": "2015-05-31",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "ACE-I",
-    "MedicationName": "Lisinopril",
-    "DosagePerDay": "40 mg",
-    "Instructions": "Take two 20 mg tablets for a total of 40mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2015-05-31",
-    "Excel Start Date": "5/31/15",
-    "Excel End Date": "5/30/16",
-    "DateEnded": "2016-05-30",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Hypertension",
-    "DrugType": "ACE-I",
-    "MedicationName": "Lisinopril",
-    "DosagePerDay": "40 mg",
-    "Instructions": "Take two 20 mg tablets for a total of 40mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2016-05-30",
-    "Excel Start Date": "5/30/16",
-    "Excel End Date": "5/30/17",
-    "DateEnded": "2017-05-30",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Diabetes",
-    "DrugType": "Glucophage",
-    "MedicationName": "Metformin",
-    "DosagePerDay": "500 mg",
-    "Instructions": "Take one 500 mg tablet once a day with dinner for 2 weeks.",
-    "Days": 14,
-    "DateStarted": "2010-10-19",
-    "Excel Start Date": "10/19/10",
-    "Excel End Date": "11/2/10",
-    "DateEnded": "2010-11-02",
-    "Provider": "Dr. Bradley",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Diabetes",
-    "DrugType": "Glucophage",
-    "MedicationName": "Metformin",
-    "DosagePerDay": "1000 mg",
-    "Instructions": "Take two 500 mg tablets, one with breakfast and one with dinner for a total of 1000 mg/day for 30 days.",
-    "Days": 30,
-    "DateStarted": "2010-11-02",
-    "Excel Start Date": "11/2/10",
-    "Excel End Date": "12/2/10",
-    "DateEnded": "2010-12-02",
-    "Provider": "Dr. Bradley",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Diabetes",
-    "DrugType": "Glucophage",
-    "MedicationName": "Metformin",
-    "DosagePerDay": "1000 mg",
-    "Instructions": "Take two 500 mg tablets, one with breakfast and one with dinner for a total of 1000 mg/day for 30 days.",
-    "Days": 30,
-    "DateStarted": "2010-12-01",
-    "Excel Start Date": "12/1/10",
-    "Excel End Date": "12/31/10",
-    "DateEnded": "2010-12-31",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Diabetes",
-    "DrugType": "Glucophage",
-    "MedicationName": "Metformin",
-    "DosagePerDay": "1000 mg",
-    "Instructions": "Take two 500 mg tablets, one with breakfast and one with dinner for a total of 1000 mg/day for 30 days.",
-    "Days": 30,
-    "DateStarted": "2010-12-31",
-    "Excel Start Date": "12/31/10",
-    "Excel End Date": "1/30/11",
-    "DateEnded": "2011-01-30",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Diabetes",
-    "DrugType": "Glucophage",
-    "MedicationName": "Metformin",
-    "DosagePerDay": "1500 mg",
-    "Instructions": "Take three 500 mg tablets, one with each meal, for a total of 1500 mg/day for 2 weeks.",
-    "Days": 14,
-    "DateStarted": "2011-01-30",
-    "Excel Start Date": "1/30/11",
-    "Excel End Date": "2/13/11",
-    "DateEnded": "2011-02-13",
-    "Provider": "Dr. Bradley",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Diabetes",
-    "DrugType": "Glucophage",
-    "MedicationName": "Metformin",
-    "DosagePerDay": "1500 mg",
-    "Instructions": "Take three 500 mg tablets, one with each meal, for a total of 1500 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2011-02-13",
-    "Excel Start Date": "2/13/11",
-    "Excel End Date": "2/13/12",
-    "DateEnded": "2012-02-13",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Diabetes",
-    "DrugType": "Glucophage",
-    "MedicationName": "Metformin",
-    "DosagePerDay": "1500 mg",
-    "Instructions": "Take three 500 mg tablets, one with each meal, for a total of 1500 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2012-02-14",
-    "Excel Start Date": "2/14/12",
-    "Excel End Date": "2/13/13",
-    "DateEnded": "2013-02-13",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Diabetes",
-    "DrugType": "Glucophage",
-    "MedicationName": "Metformin",
-    "DosagePerDay": "1500 mg",
-    "Instructions": "Take three 500 mg tablets, one with each meal, for a total of 1500 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2013-02-14",
-    "Excel Start Date": "2/14/13",
-    "Excel End Date": "2/14/14",
-    "DateEnded": "2014-02-14",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Diabetes",
-    "DrugType": "Glucophage",
-    "MedicationName": "Metformin",
-    "DosagePerDay": "2000 mg",
-    "Instructions": "Take two 1000 mg tablets, one with breakfast and one with dinner for a total of 2000 mg/day for 2 weeks.",
-    "Days": 365,
-    "DateStarted": "2014-02-15",
-    "Excel Start Date": "2/15/14",
-    "Excel End Date": "2/15/15",
-    "DateEnded": "2015-02-15",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27706"
-  },
-  {
-    "Condition": "Diabetes",
-    "DrugType": "Glucophage",
-    "MedicationName": "Metformin",
-    "DosagePerDay": "2000 mg",
-    "Instructions": "Take two 1000 mg tablets, one with breakfast and one with dinner for a total of 2000 mg/day for 2 weeks.",
-    "Days": 365,
-    "DateStarted": "2015-02-15",
-    "Excel Start Date": "2/15/15",
-    "Excel End Date": "2/15/16",
-    "DateEnded": "2016-02-15",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27706"
-  },
-  {
-    "Condition": "Diabetes",
-    "DrugType": "Glucophage",
-    "MedicationName": "Metformin",
-    "DosagePerDay": "2000 mg",
-    "Instructions": "Take two 1000 mg tablets, one with breakfast and one with dinner for a total of 2000 mg/day for 2 weeks.",
-    "Days": 365,
-    "DateStarted": "2016-02-16",
-    "Excel Start Date": "2/16/16",
-    "Excel End Date": "2/15/17",
-    "DateEnded": "2017-02-15",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27706"
-  },
-  {
-    "Condition": "Nausea",
-    "DrugType": "Dopamine receptor antagonist",
-    "MedicationName": "Metoclopromide",
-    "DosagePerDay": "80 mg",
-    "Instructions": "1 mg/kg over 15 minutes 30 minutes before chemotherapy; repeat every 2 hours for 2 doses, then every 3 hours for 3 doses",
-    "Days": 21,
-    "DateStarted": "2007-02-22",
-    "Excel Start Date": "2/22/07",
-    "Excel End Date": "3/15/07",
-    "DateEnded": "2007-03-15",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "Nausea",
-    "DrugType": "Dopamine receptor antagonist",
-    "MedicationName": "Metoclopromide",
-    "DosagePerDay": "80 mg",
-    "Instructions": "1 mg/kg over 15 minutes 30 minutes before chemotherapy; repeat every 2 hours for 2 doses, then every 3 hours for 3 doses",
-    "Days": 21,
-    "DateStarted": "2007-03-16",
-    "Excel Start Date": "3/16/07",
-    "Excel End Date": "4/6/07",
-    "DateEnded": "2007-04-06",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "Nausea",
-    "DrugType": "Dopamine receptor antagonist",
-    "MedicationName": "Metoclopromide",
-    "DosagePerDay": "80 mg",
-    "Instructions": "1 mg/kg over 15 minutes 30 minutes before chemotherapy; repeat every 2 hours for 2 doses, then every 3 hours for 3 doses",
-    "Days": 21,
-    "DateStarted": "2007-04-07",
-    "Excel Start Date": "4/7/07",
-    "Excel End Date": "4/28/07",
-    "DateEnded": "2007-04-28",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "Nausea",
-    "DrugType": "Dopamine receptor antagonist",
-    "MedicationName": "Metoclopromide",
-    "DosagePerDay": "80 mg",
-    "Instructions": "1 mg/kg over 15 minutes 30 minutes before chemotherapy; repeat every 2 hours for 2 doses, then every 3 hours for 3 doses",
-    "Days": 21,
-    "DateStarted": "2007-04-29",
-    "Excel Start Date": "4/29/07",
-    "Excel End Date": "5/20/07",
-    "DateEnded": "2007-05-20",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "Nausea",
-    "DrugType": "Dopamine receptor antagonist",
-    "MedicationName": "Metoclopromide",
-    "DosagePerDay": "80 mg",
-    "Instructions": "1 mg/kg over 15 minutes 30 minutes before chemotherapy; repeat every 2 hours for 2 doses, then every 3 hours for 3 doses",
-    "Days": 21,
-    "DateStarted": "2007-05-21",
-    "Excel Start Date": "5/21/07",
-    "Excel End Date": "6/11/07",
-    "DateEnded": "2007-06-11",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "Nausea",
-    "DrugType": "Dopamine receptor antagonist",
-    "MedicationName": "Metoclopromide",
-    "DosagePerDay": "80 mg",
-    "Instructions": "1 mg/kg over 15 minutes 30 minutes before chemotherapy; repeat every 2 hours for 2 doses, then every 3 hours for 3 doses",
-    "Days": 21,
-    "DateStarted": "2007-06-12",
-    "Excel Start Date": "6/12/07",
-    "Excel End Date": "7/3/07",
-    "DateEnded": "2007-07-03",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "Nausea",
-    "DrugType": "Dopamine receptor antagonist",
-    "MedicationName": "Metoclopromide",
-    "DosagePerDay": "80 mg",
-    "Instructions": "1 mg/kg over 15 minutes 30 minutes before chemotherapy; repeat every 2 hours for 2 doses, then every 3 hours for 3 doses",
-    "Days": 21,
-    "DateStarted": "2008-07-04",
-    "Excel Start Date": "7/4/08",
-    "Excel End Date": "7/25/08",
-    "DateEnded": "2008-07-25",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "Nausea",
-    "DrugType": "Dopamine receptor antagonist",
-    "MedicationName": "Metoclopromide",
-    "DosagePerDay": "80 mg",
-    "Instructions": "1 mg/kg over 15 minutes 30 minutes before chemotherapy; repeat every 2 hours for 2 doses, then every 3 hours for 3 doses",
-    "Days": 21,
-    "DateStarted": "2008-07-26",
-    "Excel Start Date": "7/26/08",
-    "Excel End Date": "8/16/08",
-    "DateEnded": "2008-08-16",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "Nausea",
-    "DrugType": "Dopamine receptor antagonist",
-    "MedicationName": "Metoclopromide",
-    "DosagePerDay": "80 mg",
-    "Instructions": "1 mg/kg over 15 minutes 30 minutes before chemotherapy; repeat every 2 hours for 2 doses, then every 3 hours for 3 doses",
-    "Days": 21,
-    "DateStarted": "2008-08-17",
-    "Excel Start Date": "8/17/08",
-    "Excel End Date": "9/7/08",
-    "DateEnded": "2008-09-07",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "Nausea",
-    "DrugType": "Dopamine receptor antagonist",
-    "MedicationName": "Metoclopromide",
-    "DosagePerDay": "80 mg",
-    "Instructions": "1 mg/kg over 15 minutes 30 minutes before chemotherapy; repeat every 2 hours for 2 doses, then every 3 hours for 3 doses",
-    "Days": 21,
-    "DateStarted": "2008-09-08",
-    "Excel Start Date": "9/8/08",
-    "Excel End Date": "9/29/08",
-    "DateEnded": "2008-09-29",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "Nausea",
-    "DrugType": "Dopamine receptor antagonist",
-    "MedicationName": "Metoclopromide",
-    "DosagePerDay": "80 mg",
-    "Instructions": "1 mg/kg over 15 minutes 30 minutes before chemotherapy; repeat every 2 hours for 2 doses, then every 3 hours for 3 doses",
-    "Days": 21,
-    "DateStarted": "2008-09-30",
-    "Excel Start Date": "9/30/08",
-    "Excel End Date": "10/21/08",
-    "DateEnded": "2008-10-21",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "Nausea",
-    "DrugType": "Dopamine receptor antagonist",
-    "MedicationName": "Metoclopromide",
-    "DosagePerDay": "80 mg",
-    "Instructions": "1 mg/kg over 15 minutes 30 minutes before chemotherapy; repeat every 2 hours for 2 doses, then every 3 hours for 3 doses",
-    "Days": 21,
-    "DateStarted": "2008-10-22",
-    "Excel Start Date": "10/22/08",
-    "Excel End Date": "11/12/08",
-    "DateEnded": "2008-11-12",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "Gout",
-    "DrugType": "NSAIDs",
-    "MedicationName": "Naproxen",
-    "DosagePerDay": "500 mg",
-    "Instructions": "Take one 500 mg tablet/day for 10 days or until inflammation and pain are gone.",
-    "Days": 10,
-    "DateStarted": "1999-05-05",
-    "Excel Start Date": "5/5/99",
-    "Excel End Date": "5/15/99",
-    "DateEnded": "1999-05-15",
-    "Provider": "Dr. Montana",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Gout",
-    "DrugType": "NSAIDs",
-    "MedicationName": "Naproxen",
-    "DosagePerDay": "500 mg",
-    "Instructions": "Take one 500 mg tablet/day for 10 days or until inflammation and pain are gone.",
-    "Days": 10,
-    "DateStarted": "2004-02-18",
-    "Excel Start Date": "2/18/04",
-    "Excel End Date": "2/28/04",
-    "DateEnded": "2004-02-28",
-    "Provider": "Dr. Bradley",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Gout",
-    "DrugType": "NSAIDs",
-    "MedicationName": "Naproxen",
-    "DosagePerDay": "500 mg",
-    "Instructions": "Take one 500 mg tablet/day for 10 days or until inflammation and pain are gone.",
-    "Days": 10,
-    "DateStarted": "2014-07-07",
-    "Excel Start Date": "7/7/14",
-    "Excel End Date": "7/17/14",
-    "DateEnded": "2014-07-17",
-    "Provider": "Dr. Emerman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Nausea",
-    "DrugType": "Serontonin receptor antagonist",
-    "MedicationName": "Ondansetron",
-    "DosagePerDay": "8 mg",
-    "Instructions": "Take 8 mg beginning 30 minutes before chemotherapy; repeat dose 8 hours after initial dose, then 8 mg every 12 hours for 1 to 2 days after chemotherapy completed",
-    "Days": 21,
-    "DateStarted": "2007-02-22",
-    "Excel Start Date": "2/22/07",
-    "Excel End Date": "3/15/07",
-    "DateEnded": "2007-03-15",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "Nausea",
-    "DrugType": "Serontonin receptor antagonist",
-    "MedicationName": "Ondansetron",
-    "DosagePerDay": "8 mg",
-    "Instructions": "Take 8 mg beginning 30 minutes before chemotherapy; repeat dose 8 hours after initial dose, then 8 mg every 12 hours for 1 to 2 days after chemotherapy completed",
-    "Days": 21,
-    "DateStarted": "2007-03-16",
-    "Excel Start Date": "3/16/07",
-    "Excel End Date": "4/6/07",
-    "DateEnded": "2007-04-06",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "Nausea",
-    "DrugType": "Serontonin receptor antagonist",
-    "MedicationName": "Ondansetron",
-    "DosagePerDay": "8 mg",
-    "Instructions": "Take 8 mg beginning 30 minutes before chemotherapy; repeat dose 8 hours after initial dose, then 8 mg every 12 hours for 1 to 2 days after chemotherapy completed",
-    "Days": 21,
-    "DateStarted": "2007-04-07",
-    "Excel Start Date": "4/7/07",
-    "Excel End Date": "4/28/07",
-    "DateEnded": "2007-04-28",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "Nausea",
-    "DrugType": "Serontonin receptor antagonist",
-    "MedicationName": "Ondansetron",
-    "DosagePerDay": "8 mg",
-    "Instructions": "Take 8 mg beginning 30 minutes before chemotherapy; repeat dose 8 hours after initial dose, then 8 mg every 12 hours for 1 to 2 days after chemotherapy completed",
-    "Days": 21,
-    "DateStarted": "2007-04-29",
-    "Excel Start Date": "4/29/07",
-    "Excel End Date": "5/20/07",
-    "DateEnded": "2007-05-20",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "Nausea",
-    "DrugType": "Serontonin receptor antagonist",
-    "MedicationName": "Ondansetron",
-    "DosagePerDay": "8 mg",
-    "Instructions": "Take 8 mg beginning 30 minutes before chemotherapy; repeat dose 8 hours after initial dose, then 8 mg every 12 hours for 1 to 2 days after chemotherapy completed",
-    "Days": 21,
-    "DateStarted": "2007-05-21",
-    "Excel Start Date": "5/21/07",
-    "Excel End Date": "6/11/07",
-    "DateEnded": "2007-06-11",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "Nausea",
-    "DrugType": "Serontonin receptor antagonist",
-    "MedicationName": "Ondansetron",
-    "DosagePerDay": "8 mg",
-    "Instructions": "Take 8 mg beginning 30 minutes before chemotherapy; repeat dose 8 hours after initial dose, then 8 mg every 12 hours for 1 to 2 days after chemotherapy completed",
-    "Days": 21,
-    "DateStarted": "2007-06-12",
-    "Excel Start Date": "6/12/07",
-    "Excel End Date": "7/3/07",
-    "DateEnded": "2007-07-03",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "Nausea",
-    "DrugType": "Serontonin receptor antagonist",
-    "MedicationName": "Ondansetron",
-    "DosagePerDay": "8 mg",
-    "Instructions": "Take 8 mg beginning 30 minutes before chemotherapy; repeat dose 8 hours after initial dose, then 8 mg every 12 hours for 1 to 2 days after chemotherapy completed",
-    "Days": 21,
-    "DateStarted": "2008-07-04",
-    "Excel Start Date": "7/4/08",
-    "Excel End Date": "7/25/08",
-    "DateEnded": "2008-07-25",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "Nausea",
-    "DrugType": "Serontonin receptor antagonist",
-    "MedicationName": "Ondansetron",
-    "DosagePerDay": "8 mg",
-    "Instructions": "Take 8 mg beginning 30 minutes before chemotherapy; repeat dose 8 hours after initial dose, then 8 mg every 12 hours for 1 to 2 days after chemotherapy completed",
-    "Days": 21,
-    "DateStarted": "2008-07-26",
-    "Excel Start Date": "7/26/08",
-    "Excel End Date": "8/16/08",
-    "DateEnded": "2008-08-16",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "Nausea",
-    "DrugType": "Serontonin receptor antagonist",
-    "MedicationName": "Ondansetron",
-    "DosagePerDay": "8 mg",
-    "Instructions": "Take 8 mg beginning 30 minutes before chemotherapy; repeat dose 8 hours after initial dose, then 8 mg every 12 hours for 1 to 2 days after chemotherapy completed",
-    "Days": 21,
-    "DateStarted": "2008-08-17",
-    "Excel Start Date": "8/17/08",
-    "Excel End Date": "9/7/08",
-    "DateEnded": "2008-09-07",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "Nausea",
-    "DrugType": "Serontonin receptor antagonist",
-    "MedicationName": "Ondansetron",
-    "DosagePerDay": "8 mg",
-    "Instructions": "Take 8 mg beginning 30 minutes before chemotherapy; repeat dose 8 hours after initial dose, then 8 mg every 12 hours for 1 to 2 days after chemotherapy completed",
-    "Days": 21,
-    "DateStarted": "2008-09-08",
-    "Excel Start Date": "9/8/08",
-    "Excel End Date": "9/29/08",
-    "DateEnded": "2008-09-29",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "Nausea",
-    "DrugType": "Serontonin receptor antagonist",
-    "MedicationName": "Ondansetron",
-    "DosagePerDay": "8 mg",
-    "Instructions": "Take 8 mg beginning 30 minutes before chemotherapy; repeat dose 8 hours after initial dose, then 8 mg every 12 hours for 1 to 2 days after chemotherapy completed",
-    "Days": 21,
-    "DateStarted": "2008-09-30",
-    "Excel Start Date": "9/30/08",
-    "Excel End Date": "10/21/08",
-    "DateEnded": "2008-10-21",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "Nausea",
-    "DrugType": "Serontonin receptor antagonist",
-    "MedicationName": "Ondansetron",
-    "DosagePerDay": "8 mg",
-    "Instructions": "Take 8 mg beginning 30 minutes before chemotherapy; repeat dose 8 hours after initial dose, then 8 mg every 12 hours for 1 to 2 days after chemotherapy completed",
-    "Days": 21,
-    "DateStarted": "2008-10-22",
-    "Excel Start Date": "10/22/08",
-    "Excel End Date": "11/12/08",
-    "DateEnded": "2008-11-12",
-    "Provider": "Dr. Searlman",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Per instructions",
-    "OrderStatus": "Complete",
-    "Pharmacy": "Duke Hospital Inpatient Unit"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "SSRI",
-    "MedicationName": "Sertraline",
-    "DosagePerDay": "50 mg",
-    "Instructions": "Take one 50 mg tablet/day for 30 days.",
-    "Days": 30,
-    "DateStarted": "2000-06-28",
-    "Excel Start Date": "6/28/00",
-    "Excel End Date": "7/28/00",
-    "DateEnded": "2000-07-28",
-    "Provider": "Dr. Bradley",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "SSRI",
-    "MedicationName": "Sertraline",
-    "DosagePerDay": "100 mg",
-    "Instructions": "Take two 50 mg tablets/day for a total of 100 mg/day for 30 days.",
-    "Days": 30,
-    "DateStarted": "2000-07-29",
-    "Excel Start Date": "7/29/00",
-    "Excel End Date": "8/28/00",
-    "DateEnded": "2000-08-28",
-    "Provider": "Dr. Bradley",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "SSRI",
-    "MedicationName": "Sertraline",
-    "DosagePerDay": "150 mg",
-    "Instructions": "Take three 50 mg tablets/day for a total of 150 mg/day for 30 days.",
-    "Days": 30,
-    "DateStarted": "2000-08-31",
-    "Excel Start Date": "8/31/00",
-    "Excel End Date": "9/30/00",
-    "DateEnded": "2000-09-30",
-    "Provider": "Dr. Bradley",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "SSRI",
-    "MedicationName": "Sertraline",
-    "DosagePerDay": "200 mg",
-    "Instructions": "Take four 50 mg tablets/day for a total of 200 mg/day for 30 days.",
-    "Days": 30,
-    "DateStarted": "2000-10-02",
-    "Excel Start Date": "10/2/00",
-    "Excel End Date": "11/1/00",
-    "DateEnded": "2000-11-01",
-    "Provider": "Dr. Bradley",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "SSRI",
-    "MedicationName": "Sertraline",
-    "DosagePerDay": "200 mg",
-    "Instructions": "Take four 50mg tablets/day for a total of 200 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2000-11-03",
-    "Excel Start Date": "11/3/00",
-    "Excel End Date": "11/3/01",
-    "DateEnded": "2001-11-03",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "SSRI",
-    "MedicationName": "Sertraline",
-    "DosagePerDay": "200 mg",
-    "Instructions": "Take four 50mg tablets/day for a total of 200 mg/day for 30 days.",
-    "Days": 30,
-    "DateStarted": "2006-11-14",
-    "Excel Start Date": "11/14/06",
-    "Excel End Date": "12/14/06",
-    "DateEnded": "2006-12-14",
-    "Provider": "Dr. Bradley",
-    "Refills": 0,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "SSRI",
-    "MedicationName": "Sertraline",
-    "DosagePerDay": "200 mg",
-    "Instructions": "Take four 50mg tablets/day for a total of 200 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2006-12-17",
-    "Excel Start Date": "12/17/06",
-    "Excel End Date": "12/17/07",
-    "DateEnded": "2007-12-17",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "SSRI",
-    "MedicationName": "Sertraline",
-    "DosagePerDay": "200 mg",
-    "Instructions": "Take four 50mg tablets/day for a total of 200 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2007-12-17",
-    "Excel Start Date": "12/17/07",
-    "Excel End Date": "12/16/08",
-    "DateEnded": "2008-12-16",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "SSRI",
-    "MedicationName": "Sertraline",
-    "DosagePerDay": "200 mg",
-    "Instructions": "Take four 50mg tablets/day for a total of 200 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2008-12-17",
-    "Excel Start Date": "12/17/08",
-    "Excel End Date": "12/17/09",
-    "DateEnded": "2009-12-17",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "SSRI",
-    "MedicationName": "Sertraline",
-    "DosagePerDay": "200 mg",
-    "Instructions": "Take four 50mg tablets/day for a total of 200 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2009-12-17",
-    "Excel Start Date": "12/17/09",
-    "Excel End Date": "12/17/10",
-    "DateEnded": "2010-12-17",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Not filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "SSRI",
-    "MedicationName": "Sertraline",
-    "DosagePerDay": "200 mg",
-    "Instructions": "Take four 50mg tablets/day for a total of 200 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2010-12-17",
-    "Excel Start Date": "12/17/10",
-    "Excel End Date": "12/17/11",
-    "DateEnded": "2011-12-17",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "SSRI",
-    "MedicationName": "Sertraline",
-    "DosagePerDay": "200 mg",
-    "Instructions": "Take four 50mg tablets/day for a total of 200 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2011-12-17",
-    "Excel Start Date": "12/17/11",
-    "Excel End Date": "12/16/12",
-    "DateEnded": "2012-12-16",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "SSRI",
-    "MedicationName": "Sertraline",
-    "DosagePerDay": "200 mg",
-    "Instructions": "Take four 50mg tablets/day for a total of 200 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2012-12-17",
-    "Excel Start Date": "12/17/12",
-    "Excel End Date": "12/17/13",
-    "DateEnded": "2013-12-17",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "SSRI",
-    "MedicationName": "Sertraline",
-    "DosagePerDay": "200 mg",
-    "Instructions": "Take four 50mg tablets/day for a total of 200 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2013-12-17",
-    "Excel Start Date": "12/17/13",
-    "Excel End Date": "12/17/14",
-    "DateEnded": "2014-12-17",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "SSRI",
-    "MedicationName": "Sertraline",
-    "DosagePerDay": "200 mg",
-    "Instructions": "Take four 50mg tablets/day for a total of 200 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2014-12-17",
-    "Excel Start Date": "12/17/14",
-    "Excel End Date": "12/17/15",
-    "DateEnded": "2015-12-17",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  },
-  {
-    "Condition": "Depression",
-    "DrugType": "SSRI",
-    "MedicationName": "Sertraline",
-    "DosagePerDay": "200 mg",
-    "Instructions": "Take four 50mg tablets/day for a total of 200 mg/day for 30 days.",
-    "Days": 365,
-    "DateStarted": "2015-12-17",
-    "Excel Start Date": "12/17/15",
-    "Excel End Date": "12/16/16",
-    "DateEnded": "2016-12-16",
-    "Provider": "Dr. Bradley",
-    "Refills": 11,
-    "FillStatus": "Filled",
-    "Route": "Oral",
-    "Frequency": "Daily",
-    "OrderStatus": "Complete",
-    "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
-  }
-]
-    
+      {
+        "Condition": "Diabetes",
+        "DrugType": "Glucophage",
+        "MedicationName": "Metformin",
+        "DosagePerDay": "500 mg",
+        "Instructions": "Take one 500 mg tablet once a day with dinner for 2 weeks.",
+        "Days": 14,
+        "DateStarted": "2010-01-02",
+        "Excel Start Date": "1/2/10",
+        "Excel End Date": "1/16/10",
+        "DateEnded": "2010-01-16",
+        "Provider": "Dr. Bradley",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Diabetes",
+        "DrugType": "Glucophage",
+        "MedicationName": "Metformin",
+        "DosagePerDay": "1000 mg",
+        "Instructions": "Take two 500 mg tablets, one with breakfast and one with dinner for a total of 1000 mg/day for 30 days.",
+        "Days": 30,
+        "DateStarted": "2010-01-17",
+        "Excel Start Date": "1/17/10",
+        "Excel End Date": "2/16/10",
+        "DateEnded": "2010-02-16",
+        "Provider": "Dr. Bradley",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Diabetes",
+        "DrugType": "Glucophage",
+        "MedicationName": "Metformin",
+        "DosagePerDay": "1000 mg",
+        "Instructions": "Take two 500 mg tablets, one with breakfast and one with dinner for a total of 1000 mg/day for 30 days.",
+        "Days": 316,
+        "DateStarted": "2010-02-17",
+        "Excel Start Date": "2/17/10",
+        "Excel End Date": "12/30/10",
+        "DateEnded": "2010-12-30",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Diabetes",
+        "DrugType": "Glucophage",
+        "MedicationName": "Metformin",
+        "DosagePerDay": "1000 mg",
+        "Instructions": "Take two 500 mg tablets, one with breakfast and one with dinner for a total of 1000 mg/day for 30 days.",
+        "Days": 30,
+        "DateStarted": "2010-12-31",
+        "Excel Start Date": "12/31/10",
+        "Excel End Date": "1/30/11",
+        "DateEnded": "2011-01-30",
+        "Provider": "Dr. Bradley",
+        "Refills": 1,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Diabetes",
+        "DrugType": "Glucophage",
+        "MedicationName": "Metformin",
+        "DosagePerDay": "1500 mg",
+        "Instructions": "Take three 500 mg tablets, one with each meal, for a total of 1500 mg/day for 2 weeks.",
+        "Days": 14,
+        "DateStarted": "2011-01-30",
+        "Excel Start Date": "1/30/11",
+        "Excel End Date": "2/13/11",
+        "DateEnded": "2011-02-13",
+        "Provider": "Dr. Bradley",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Diabetes",
+        "DrugType": "Glucophage",
+        "MedicationName": "Metformin",
+        "DosagePerDay": "1500 mg",
+        "Instructions": "Take three 500 mg tablets, one with each meal, for a total of 1500 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2011-02-13",
+        "Excel Start Date": "2/13/11",
+        "Excel End Date": "2/13/12",
+        "DateEnded": "2012-02-13",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Diabetes",
+        "DrugType": "Glucophage",
+        "MedicationName": "Metformin",
+        "DosagePerDay": "1500 mg",
+        "Instructions": "Take three 500 mg tablets, one with each meal, for a total of 1500 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2012-02-14",
+        "Excel Start Date": "2/14/12",
+        "Excel End Date": "2/13/13",
+        "DateEnded": "2013-02-13",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Diabetes",
+        "DrugType": "Glucophage",
+        "MedicationName": "Metformin",
+        "DosagePerDay": "1500 mg",
+        "Instructions": "Take three 500 mg tablets, one with each meal, for a total of 1500 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2013-02-14",
+        "Excel Start Date": "2/14/13",
+        "Excel End Date": "2/14/14",
+        "DateEnded": "2014-02-14",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Diabetes",
+        "DrugType": "Glucophage",
+        "MedicationName": "Metformin",
+        "DosagePerDay": "2000 mg",
+        "Instructions": "Take two 1000 mg tablets, one with breakfast and one with dinner for a total of 2000 mg/day for 2 weeks.",
+        "Days": 365,
+        "DateStarted": "2014-02-15",
+        "Excel Start Date": "2/15/14",
+        "Excel End Date": "2/15/15",
+        "DateEnded": "2015-02-15",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27706"
+      },
+      {
+        "Condition": "Diabetes",
+        "DrugType": "Glucophage",
+        "MedicationName": "Metformin",
+        "DosagePerDay": "2000 mg",
+        "Instructions": "Take two 1000 mg tablets, one with breakfast and one with dinner for a total of 2000 mg/day for 2 weeks.",
+        "Days": 365,
+        "DateStarted": "2015-02-15",
+        "Excel Start Date": "2/15/15",
+        "Excel End Date": "2/15/16",
+        "DateEnded": "2016-02-15",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27706"
+      },
+      {
+        "Condition": "Diabetes",
+        "DrugType": "Glucophage",
+        "MedicationName": "Metformin",
+        "DosagePerDay": "2000 mg",
+        "Instructions": "Take two 1000 mg tablets, one with breakfast and one with dinner for a total of 2000 mg/day for 2 weeks.",
+        "Days": 365,
+        "DateStarted": "2016-02-16",
+        "Excel Start Date": "2/16/16",
+        "Excel End Date": "2/15/17",
+        "DateEnded": "2017-02-15",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27706"
+      },
+      {
+        "Condition": "Gout",
+        "DrugType": "XO-I",
+        "MedicationName": "Allopurinol",
+        "DosagePerDay": "100 mg",
+        "Instructions": "Take one 100 mg tablet/day for 10 days.",
+        "Days": 10,
+        "DateStarted": "2004-02-18",
+        "Excel Start Date": "2/18/04",
+        "Excel End Date": "2/28/04",
+        "DateEnded": "2004-02-28",
+        "Provider": "Dr. Bradley",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Gout",
+        "DrugType": "XO-I",
+        "MedicationName": "Allopurinol",
+        "DosagePerDay": "100 mg",
+        "Instructions": "Take one 100 mg tablet/day for 30 days.",
+        "Days": 90,
+        "DateStarted": "2004-02-28",
+        "Excel Start Date": "2/28/04",
+        "Excel End Date": "5/28/04",
+        "DateEnded": "2004-05-28",
+        "Provider": "Dr. Bradley",
+        "Refills": 2,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Gout",
+        "DrugType": "XO-I",
+        "MedicationName": "Allopurinol",
+        "DosagePerDay": "100 mg",
+        "Instructions": "Take one 100 mg tablet/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2004-05-30",
+        "Excel Start Date": "5/30/04",
+        "Excel End Date": "5/30/05",
+        "DateEnded": "2005-05-30",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Gout",
+        "DrugType": "XO-I",
+        "MedicationName": "Allopurinol",
+        "DosagePerDay": "100 mg",
+        "Instructions": "Take one 100 mg tablet/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2005-05-31",
+        "Excel Start Date": "5/31/05",
+        "Excel End Date": "5/31/06",
+        "DateEnded": "2006-05-30",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Gout",
+        "DrugType": "XO-I",
+        "MedicationName": "Allopurinol",
+        "DosagePerDay": "100 mg",
+        "Instructions": "Take one 100 mg tablet/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2006-05-31",
+        "Excel Start Date": "5/31/06",
+        "Excel End Date": "5/31/07",
+        "DateEnded": "2007-05-31",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Gout",
+        "DrugType": "XO-I",
+        "MedicationName": "Allopurinol",
+        "DosagePerDay": "100 mg",
+        "Instructions": "Take one 100 mg tablet/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2007-05-31",
+        "Excel Start Date": "5/31/07",
+        "Excel End Date": "5/30/08",
+        "DateEnded": "2008-05-30",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Gout",
+        "DrugType": "XO-I",
+        "MedicationName": "Allopurinol",
+        "DosagePerDay": "100 mg",
+        "Instructions": "Take one 100 mg tablet/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2008-05-31",
+        "Excel Start Date": "5/31/08",
+        "Excel End Date": "5/31/09",
+        "DateEnded": "2009-05-31",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Gout",
+        "DrugType": "XO-I",
+        "MedicationName": "Allopurinol",
+        "DosagePerDay": "100 mg",
+        "Instructions": "Take one 100 mg tablet/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2009-05-31",
+        "Excel Start Date": "5/31/09",
+        "Excel End Date": "5/31/10",
+        "DateEnded": "2010-05-31",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Gout",
+        "DrugType": "XO-I",
+        "MedicationName": "Allopurinol",
+        "DosagePerDay": "100 mg",
+        "Instructions": "Take one 100 mg tablet/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2010-05-31",
+        "Excel Start Date": "5/31/10",
+        "Excel End Date": "5/31/11",
+        "DateEnded": "2011-05-31",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Gout",
+        "DrugType": "XO-I",
+        "MedicationName": "Allopurinol",
+        "DosagePerDay": "100 mg",
+        "Instructions": "Take one 100 mg tablet/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2011-05-31",
+        "Excel Start Date": "5/31/11",
+        "Excel End Date": "5/30/12",
+        "DateEnded": "2012-05-30",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Gout",
+        "DrugType": "XO-I",
+        "MedicationName": "Allopurinol",
+        "DosagePerDay": "100 mg",
+        "Instructions": "Take one 100 mg tablet/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2012-05-31",
+        "Excel Start Date": "5/31/12",
+        "Excel End Date": "5/31/13",
+        "DateEnded": "2013-05-30",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Gout",
+        "DrugType": "XO-I",
+        "MedicationName": "Allopurinol",
+        "DosagePerDay": "100 mg",
+        "Instructions": "Take one 100 mg tablet/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2013-05-31",
+        "Excel Start Date": "5/31/13",
+        "Excel End Date": "5/31/14",
+        "DateEnded": "2014-05-31",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Gout",
+        "DrugType": "XO-I",
+        "MedicationName": "Allopurinol",
+        "DosagePerDay": "100 mg",
+        "Instructions": "Take one 100 mg tablet/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2014-05-31",
+        "Excel Start Date": "5/31/14",
+        "Excel End Date": "5/31/15",
+        "DateEnded": "2015-05-31",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Gout",
+        "DrugType": "XO-I",
+        "MedicationName": "Allopurinol",
+        "DosagePerDay": "200 mg",
+        "Instructions": "Take one 200 mg tablet/day for 30 days.",
+        "Days": 180,
+        "DateStarted": "2015-07-07",
+        "Excel Start Date": "7/7/15",
+        "Excel End Date": "1/3/16",
+        "DateEnded": "2016-01-03",
+        "Provider": "Dr. Emerman",
+        "Refills": 5,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Gout",
+        "DrugType": "XO-I",
+        "MedicationName": "Allopurinol",
+        "DosagePerDay": "200 mg",
+        "Instructions": "Take one 200 mg tablet/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2016-01-08",
+        "Excel Start Date": "1/8/16",
+        "Excel End Date": "1/7/17",
+        "DateEnded": "2017-01-07",
+        "Provider": "Dr. Emerman",
+        "Refills": 11,
+        "FillStatus": "Not filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Gout",
+        "DrugType": "NSAIDs",
+        "MedicationName": "Naproxen",
+        "DosagePerDay": "500 mg",
+        "Instructions": "Take one 500 mg tablet/day for 10 days or until inflammation and pain are gone.",
+        "Days": 10,
+        "DateStarted": "1999-05-05",
+        "Excel Start Date": "5/5/99",
+        "Excel End Date": "5/15/99",
+        "DateEnded": "1999-05-15",
+        "Provider": "Dr. Montana",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Gout",
+        "DrugType": "NSAIDs",
+        "MedicationName": "Naproxen",
+        "DosagePerDay": "500 mg",
+        "Instructions": "Take one 500 mg tablet/day for 10 days or until inflammation and pain are gone.",
+        "Days": 10,
+        "DateStarted": "2004-02-18",
+        "Excel Start Date": "2/18/04",
+        "Excel End Date": "2/28/04",
+        "DateEnded": "2004-02-28",
+        "Provider": "Dr. Bradley",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Gout",
+        "DrugType": "NSAIDs",
+        "MedicationName": "Naproxen",
+        "DosagePerDay": "500 mg",
+        "Instructions": "Take one 500 mg tablet/day for 10 days or until inflammation and pain are gone.",
+        "Days": 10,
+        "DateStarted": "2014-07-07",
+        "Excel Start Date": "7/7/14",
+        "Excel End Date": "7/17/14",
+        "DateEnded": "2014-07-17",
+        "Provider": "Dr. Emerman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Gout",
+        "DrugType": "Alkaloid",
+        "MedicationName": "Colchicine",
+        "DosagePerDay": "1.8 mg",
+        "Instructions": "Take 1.2 mg then 0.6 mg single dose 1 hour after first dose.",
+        "Days": 1,
+        "DateStarted": "1999-05-05",
+        "Excel Start Date": "5/5/99",
+        "Excel End Date": "5/6/99",
+        "DateEnded": "1999-05-06",
+        "Provider": "Dr. Montana",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Gout",
+        "DrugType": "Alkaloid",
+        "MedicationName": "Colchicine",
+        "DosagePerDay": "1.8 mg",
+        "Instructions": "Take 1.2 mg then 0.6 mg single dose 1 hour after first dose.",
+        "Days": 1,
+        "DateStarted": "2004-02-18",
+        "Excel Start Date": "2/18/04",
+        "Excel End Date": "2/19/04",
+        "DateEnded": "2004-02-19",
+        "Provider": "Dr. Bradley",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Gout",
+        "DrugType": "Alkaloid",
+        "MedicationName": "Colchicine",
+        "DosagePerDay": "1.8 mg",
+        "Instructions": "Take 1.2 mg then 0.6 mg single dose 1 hour after first dose.",
+        "Days": 1,
+        "DateStarted": "2014-07-07",
+        "Excel Start Date": "7/7/14",
+        "Excel End Date": "7/8/14",
+        "DateEnded": "2014-07-08",
+        "Provider": "Dr. Emerman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "SSRI",
+        "MedicationName": "Fluoxetine",
+        "DosagePerDay": "20 mg",
+        "Instructions": "Take one 20 mg tablet/day for 30 days.",
+        "Days": 30,
+        "DateStarted": "2000-03-25",
+        "Excel Start Date": "3/25/00",
+        "Excel End Date": "4/24/00",
+        "DateEnded": "2000-04-24",
+        "Provider": "Dr. Bradley",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "SSRI",
+        "MedicationName": "Fluoxetine",
+        "DosagePerDay": "40 mg",
+        "Instructions": "Take two 20 mg tablets/day for a total of 40 mg/day for 30 days.",
+        "Days": 30,
+        "DateStarted": "2000-04-26",
+        "Excel Start Date": "4/26/00",
+        "Excel End Date": "5/26/00",
+        "DateEnded": "2000-05-26",
+        "Provider": "Dr. Bradley",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "SSRI",
+        "MedicationName": "Fluoxetine",
+        "DosagePerDay": "80 mg",
+        "Instructions": "Take four 20 mg tablets/day for a total of 80 mg/day for 30 days.",
+        "Days": 30,
+        "DateStarted": "2000-05-27",
+        "Excel Start Date": "5/27/00",
+        "Excel End Date": "6/26/00",
+        "DateEnded": "2000-06-26",
+        "Provider": "Dr. Bradley",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "SSRI",
+        "MedicationName": "Sertraline",
+        "DosagePerDay": "50 mg",
+        "Instructions": "Take one 50 mg tablet/day for 30 days.",
+        "Days": 30,
+        "DateStarted": "2000-06-28",
+        "Excel Start Date": "6/28/00",
+        "Excel End Date": "7/28/00",
+        "DateEnded": "2000-07-28",
+        "Provider": "Dr. Bradley",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "SSRI",
+        "MedicationName": "Sertraline",
+        "DosagePerDay": "100 mg",
+        "Instructions": "Take two 50 mg tablets/day for a total of 100 mg/day for 30 days.",
+        "Days": 30,
+        "DateStarted": "2000-07-29",
+        "Excel Start Date": "7/29/00",
+        "Excel End Date": "8/28/00",
+        "DateEnded": "2000-08-28",
+        "Provider": "Dr. Bradley",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "SSRI",
+        "MedicationName": "Sertraline",
+        "DosagePerDay": "150 mg",
+        "Instructions": "Take three 50 mg tablets/day for a total of 150 mg/day for 30 days.",
+        "Days": 30,
+        "DateStarted": "2000-08-31",
+        "Excel Start Date": "8/31/00",
+        "Excel End Date": "9/30/00",
+        "DateEnded": "2000-09-30",
+        "Provider": "Dr. Bradley",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "SSRI",
+        "MedicationName": "Sertraline",
+        "DosagePerDay": "200 mg",
+        "Instructions": "Take four 50 mg tablets/day for a total of 200 mg/day for 30 days.",
+        "Days": 30,
+        "DateStarted": "2000-10-02",
+        "Excel Start Date": "10/2/00",
+        "Excel End Date": "11/1/00",
+        "DateEnded": "2000-11-01",
+        "Provider": "Dr. Bradley",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "SSRI",
+        "MedicationName": "Sertraline",
+        "DosagePerDay": "200 mg",
+        "Instructions": "Take four 50mg tablets/day for a total of 200 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2000-11-03",
+        "Excel Start Date": "11/3/00",
+        "Excel End Date": "11/3/01",
+        "DateEnded": "2001-11-03",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "SSRI",
+        "MedicationName": "Sertraline",
+        "DosagePerDay": "200 mg",
+        "Instructions": "Take four 50mg tablets/day for a total of 200 mg/day for 30 days.",
+        "Days": 30,
+        "DateStarted": "2006-11-14",
+        "Excel Start Date": "11/14/06",
+        "Excel End Date": "12/14/06",
+        "DateEnded": "2006-12-14",
+        "Provider": "Dr. Bradley",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "SSRI",
+        "MedicationName": "Sertraline",
+        "DosagePerDay": "200 mg",
+        "Instructions": "Take four 50mg tablets/day for a total of 200 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2006-12-17",
+        "Excel Start Date": "12/17/06",
+        "Excel End Date": "12/17/07",
+        "DateEnded": "2007-12-17",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "SSRI",
+        "MedicationName": "Sertraline",
+        "DosagePerDay": "200 mg",
+        "Instructions": "Take four 50mg tablets/day for a total of 200 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2007-12-17",
+        "Excel Start Date": "12/17/07",
+        "Excel End Date": "12/16/08",
+        "DateEnded": "2008-12-16",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "SSRI",
+        "MedicationName": "Sertraline",
+        "DosagePerDay": "200 mg",
+        "Instructions": "Take four 50mg tablets/day for a total of 200 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2008-12-17",
+        "Excel Start Date": "12/17/08",
+        "Excel End Date": "12/17/09",
+        "DateEnded": "2009-12-17",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "SSRI",
+        "MedicationName": "Sertraline",
+        "DosagePerDay": "200 mg",
+        "Instructions": "Take four 50mg tablets/day for a total of 200 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2009-12-17",
+        "Excel Start Date": "12/17/09",
+        "Excel End Date": "12/17/10",
+        "DateEnded": "2010-12-17",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Not filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "SSRI",
+        "MedicationName": "Sertraline",
+        "DosagePerDay": "200 mg",
+        "Instructions": "Take four 50mg tablets/day for a total of 200 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2010-12-17",
+        "Excel Start Date": "12/17/10",
+        "Excel End Date": "12/17/11",
+        "DateEnded": "2011-12-17",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "SSRI",
+        "MedicationName": "Sertraline",
+        "DosagePerDay": "200 mg",
+        "Instructions": "Take four 50mg tablets/day for a total of 200 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2011-12-17",
+        "Excel Start Date": "12/17/11",
+        "Excel End Date": "12/16/12",
+        "DateEnded": "2012-12-16",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "SSRI",
+        "MedicationName": "Sertraline",
+        "DosagePerDay": "200 mg",
+        "Instructions": "Take four 50mg tablets/day for a total of 200 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2012-12-17",
+        "Excel Start Date": "12/17/12",
+        "Excel End Date": "12/17/13",
+        "DateEnded": "2013-12-17",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "SSRI",
+        "MedicationName": "Sertraline",
+        "DosagePerDay": "200 mg",
+        "Instructions": "Take four 50mg tablets/day for a total of 200 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2013-12-17",
+        "Excel Start Date": "12/17/13",
+        "Excel End Date": "12/17/14",
+        "DateEnded": "2014-12-17",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "SSRI",
+        "MedicationName": "Sertraline",
+        "DosagePerDay": "200 mg",
+        "Instructions": "Take four 50mg tablets/day for a total of 200 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2014-12-17",
+        "Excel Start Date": "12/17/14",
+        "Excel End Date": "12/17/15",
+        "DateEnded": "2015-12-17",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "SSRI",
+        "MedicationName": "Sertraline",
+        "DosagePerDay": "200 mg",
+        "Instructions": "Take four 50mg tablets/day for a total of 200 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2015-12-17",
+        "Excel Start Date": "12/17/15",
+        "Excel End Date": "12/16/16",
+        "DateEnded": "2016-12-16",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "Atypical",
+        "MedicationName": "Bupropion XR",
+        "DosagePerDay": "150 mg",
+        "Instructions": "Take one tablet of 150 mg in the morning each day, if tolerated, as early as day 4, increase to two tablets in the morning each day for a total of 300 mg/day for 30 days.",
+        "Days": 30,
+        "DateStarted": "2006-12-17",
+        "Excel Start Date": "12/17/06",
+        "Excel End Date": "1/16/07",
+        "DateEnded": "2006-01-16",
+        "Provider": "Dr. Bradley",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "Atypical",
+        "MedicationName": "Bupropion XR",
+        "DosagePerDay": "300 mg",
+        "Instructions": "Take two tablets of 150 mg in the morning each day for a total of 300 mg/day for 30 days.",
+        "Days": 30,
+        "DateStarted": "2007-01-18",
+        "Excel Start Date": "1/18/07",
+        "Excel End Date": "2/17/07",
+        "DateEnded": "2007-02-17",
+        "Provider": "Dr. Bradley",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "Atypical",
+        "MedicationName": "Bupropion XR",
+        "DosagePerDay": "300 mg",
+        "Instructions": "Take two tablets of 150 mg in the morning each day for a total of 300 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2007-02-18",
+        "Excel Start Date": "2/18/07",
+        "Excel End Date": "2/18/08",
+        "DateEnded": "2008-02-18",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "Atypical",
+        "MedicationName": "Bupropion XR",
+        "DosagePerDay": "300 mg",
+        "Instructions": "Take two tablets of 150 mg in the morning each day for a total of 300 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2008-02-18",
+        "Excel Start Date": "2/18/08",
+        "Excel End Date": "2/17/09",
+        "DateEnded": "2009-02-17",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "Atypical",
+        "MedicationName": "Bupropion XR",
+        "DosagePerDay": "300 mg",
+        "Instructions": "Take two tablets of 150 mg in the morning each day for a total of 300 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2009-02-18",
+        "Excel Start Date": "2/18/09",
+        "Excel End Date": "2/18/10",
+        "DateEnded": "2010-02-18",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "Atypical",
+        "MedicationName": "Bupropion XR",
+        "DosagePerDay": "300 mg",
+        "Instructions": "Take two tablets of 150 mg in the morning each day for a total of 300 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2010-02-18",
+        "Excel Start Date": "2/18/10",
+        "Excel End Date": "2/18/11",
+        "DateEnded": "2011-02-18",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "Atypical",
+        "MedicationName": "Bupropion XR",
+        "DosagePerDay": "300 mg",
+        "Instructions": "Take two tablets of 150 mg in the morning each day for a total of 300 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2011-02-18",
+        "Excel Start Date": "2/18/11",
+        "Excel End Date": "2/18/12",
+        "DateEnded": "2012-02-18",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "Atypical",
+        "MedicationName": "Bupropion XR",
+        "DosagePerDay": "300 mg",
+        "Instructions": "Take two tablets of 150 mg in the morning each day for a total of 300 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2012-02-18",
+        "Excel Start Date": "2/18/12",
+        "Excel End Date": "2/17/13",
+        "DateEnded": "2013-02-18",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "Atypical",
+        "MedicationName": "Bupropion XR",
+        "DosagePerDay": "300 mg",
+        "Instructions": "Take two tablets of 150 mg in the morning each day for a total of 300 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2013-02-18",
+        "Excel Start Date": "2/18/13",
+        "Excel End Date": "2/18/14",
+        "DateEnded": "2014-02-18",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "Atypical",
+        "MedicationName": "Bupropion XR",
+        "DosagePerDay": "300 mg",
+        "Instructions": "Take two tablets of 150 mg in the morning each day for a total of 300 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2014-02-18",
+        "Excel Start Date": "2/18/14",
+        "Excel End Date": "2/18/15",
+        "DateEnded": "2015-02-18",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "Atypical",
+        "MedicationName": "Bupropion XR",
+        "DosagePerDay": "300 mg",
+        "Instructions": "Take two tablets of 150 mg in the morning each day for a total of 300 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2015-02-18",
+        "Excel Start Date": "2/18/15",
+        "Excel End Date": "2/18/16",
+        "DateEnded": "2016-02-18",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Active",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Depression",
+        "DrugType": "Atypical",
+        "MedicationName": "Bupropion XR",
+        "DosagePerDay": "300 mg",
+        "Instructions": "Take two tablets of 150 mg in the morning each day for a total of 300 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2016-02-18",
+        "Excel Start Date": "2/18/16",
+        "Excel End Date": "2/17/17",
+        "DateEnded": "2017-02-17",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Active",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "Thiazide",
+        "MedicationName": "Hydrochlorothiazide",
+        "DosagePerDay": "12.5 mg",
+        "Instructions": "Take one tablet of 12.5 mg/day for 2 weeks.",
+        "Days": 14,
+        "DateStarted": "1996-08-08",
+        "Excel Start Date": "8/8/96",
+        "Excel End Date": "8/22/96",
+        "DateEnded": "1996-08-22",
+        "Provider": "Dr. Bradley",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "Thiazide",
+        "MedicationName": "Hydrochlorothiazide",
+        "DosagePerDay": "12.5 mg",
+        "Instructions": "Take one tablet of 12.5 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "1996-08-27",
+        "Excel Start Date": "8/27/96",
+        "Excel End Date": "8/27/97",
+        "DateEnded": "1997-08-27",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "Thiazide",
+        "MedicationName": "Hydrochlorothiazide",
+        "DosagePerDay": "12.5 mg",
+        "Instructions": "Take one tablet of 12.5 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "1997-08-27",
+        "Excel Start Date": "8/27/97",
+        "Excel End Date": "8/27/98",
+        "DateEnded": "1998-08-27",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "Thiazide",
+        "MedicationName": "Hydrochlorothiazide",
+        "DosagePerDay": "25 mg",
+        "Instructions": "Take one tablet of 25 mg/day for 2 weeks.",
+        "Days": 14,
+        "DateStarted": "1998-08-27",
+        "Excel Start Date": "8/27/98",
+        "Excel End Date": "9/10/98",
+        "DateEnded": "1998-09-10",
+        "Provider": "Dr. Bradley",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "Thiazide",
+        "MedicationName": "Hydrochlorothiazide",
+        "DosagePerDay": "25 mg",
+        "Instructions": "Take one tablet of 25 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "1998-09-12",
+        "Excel Start Date": "9/12/98",
+        "Excel End Date": "9/12/99",
+        "DateEnded": "1999-09-12",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "Thiazide",
+        "MedicationName": "Hydrochlorothiazide",
+        "DosagePerDay": "25 mg",
+        "Instructions": "Take one tablet of 25 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "1999-09-12",
+        "Excel Start Date": "9/12/99",
+        "Excel End Date": "9/11/00",
+        "DateEnded": "2000-09-11",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "Thiazide",
+        "MedicationName": "Hydrochlorothiazide",
+        "DosagePerDay": "25 mg",
+        "Instructions": "Take one tablet of 25 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2000-09-12",
+        "Excel Start Date": "9/12/00",
+        "Excel End Date": "9/12/01",
+        "DateEnded": "2001-09-12",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "Thiazide",
+        "MedicationName": "Hydrochlorothiazide",
+        "DosagePerDay": "50 mg",
+        "Instructions": "Take one tablet of 50 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2001-09-13",
+        "Excel Start Date": "9/13/01",
+        "Excel End Date": "9/13/02",
+        "DateEnded": "2002-09-13",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "Thiazide",
+        "MedicationName": "Hydrochlorothiazide",
+        "DosagePerDay": "50 mg",
+        "Instructions": "Take one tablet of 50 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2002-09-28",
+        "Excel Start Date": "9/28/02",
+        "Excel End Date": "9/28/03",
+        "DateEnded": "2003-09-28",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "Thiazide",
+        "MedicationName": "Hydrochlorothiazide",
+        "DosagePerDay": "50 mg",
+        "Instructions": "Take one tablet of 50 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2003-09-28",
+        "Excel Start Date": "9/28/03",
+        "Excel End Date": "9/27/04",
+        "DateEnded": "2004-09-27",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "Thiazide",
+        "MedicationName": "Hydrochlorothiazide",
+        "DosagePerDay": "50 mg",
+        "Instructions": "Take one tablet of 50 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2004-09-28",
+        "Excel Start Date": "9/28/04",
+        "Excel End Date": "9/28/05",
+        "DateEnded": "2005-09-28",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "Thiazide",
+        "MedicationName": "Hydrochlorothiazide",
+        "DosagePerDay": "50 mg",
+        "Instructions": "Take one tablet of 50 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2005-09-28",
+        "Excel Start Date": "9/28/05",
+        "Excel End Date": "9/28/06",
+        "DateEnded": "2006-09-28",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "Thiazide",
+        "MedicationName": "Hydrochlorothiazide",
+        "DosagePerDay": "50 mg",
+        "Instructions": "Take one tablet of 50 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2006-09-28",
+        "Excel Start Date": "9/28/06",
+        "Excel End Date": "9/28/07",
+        "DateEnded": "2007-09-28",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "Thiazide",
+        "MedicationName": "Hydrochlorothiazide",
+        "DosagePerDay": "50 mg",
+        "Instructions": "Take one tablet of 50 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2007-09-28",
+        "Excel Start Date": "9/28/07",
+        "Excel End Date": "9/27/08",
+        "DateEnded": "2008-09-27",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "Thiazide",
+        "MedicationName": "Hydrochlorothiazide",
+        "DosagePerDay": "50 mg",
+        "Instructions": "Take one tablet of 50 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2008-09-28",
+        "Excel Start Date": "9/28/08",
+        "Excel End Date": "9/28/09",
+        "DateEnded": "2009-09-28",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "Thiazide",
+        "MedicationName": "Hydrochlorothiazide",
+        "DosagePerDay": "50 mg",
+        "Instructions": "Take one tablet of 50 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2009-09-28",
+        "Excel Start Date": "9/28/09",
+        "Excel End Date": "9/28/10",
+        "DateEnded": "2010-09-28",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "Thiazide",
+        "MedicationName": "Hydrochlorothiazide",
+        "DosagePerDay": "50 mg",
+        "Instructions": "Take one tablet of 50 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2010-09-28",
+        "Excel Start Date": "9/28/10",
+        "Excel End Date": "9/28/11",
+        "DateEnded": "2011-09-28",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "Thiazide",
+        "MedicationName": "Hydrochlorothiazide",
+        "DosagePerDay": "50 mg",
+        "Instructions": "Take one tablet of 50 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2011-09-28",
+        "Excel Start Date": "9/28/11",
+        "Excel End Date": "9/27/12",
+        "DateEnded": "2012-09-27",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "Thiazide",
+        "MedicationName": "Hydrochlorothiazide",
+        "DosagePerDay": "50 mg",
+        "Instructions": "Take one tablet of 50 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2012-09-28",
+        "Excel Start Date": "9/28/12",
+        "Excel End Date": "9/28/13",
+        "DateEnded": "2013-09-28",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "Thiazide",
+        "MedicationName": "Hydrochlorothiazide",
+        "DosagePerDay": "50 mg",
+        "Instructions": "Take one tablet of 50 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2013-09-28",
+        "Excel Start Date": "9/28/13",
+        "Excel End Date": "9/28/14",
+        "DateEnded": "2014-09-28",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "Thiazide",
+        "MedicationName": "Hydrochlorothiazide",
+        "DosagePerDay": "50 mg",
+        "Instructions": "Take one tablet of 50 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2014-09-28",
+        "Excel Start Date": "9/28/14",
+        "Excel End Date": "9/28/15",
+        "DateEnded": "2015-09-28",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "Thiazide",
+        "MedicationName": "Hydrochlorothiazide",
+        "DosagePerDay": "50 mg",
+        "Instructions": "Take one tablet of 50 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2015-09-28",
+        "Excel Start Date": "9/28/15",
+        "Excel End Date": "9/27/16",
+        "DateEnded": "2016-09-27",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "ACE-I",
+        "MedicationName": "Lisinopril",
+        "DosagePerDay": "20 mg",
+        "Instructions": "Take a 20 mg tablet/day for 30 days.",
+        "Days": 30,
+        "DateStarted": "2006-09-29",
+        "Excel Start Date": "9/29/06",
+        "Excel End Date": "10/29/06",
+        "DateEnded": "2006-10-29",
+        "Provider": "Dr. Bradley",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "ACE-I",
+        "MedicationName": "Lisinopril",
+        "DosagePerDay": "20 mg",
+        "Instructions": "Take a 20 mg tablet/day for 30 days.",
+        "Days": 180,
+        "DateStarted": "2006-10-30",
+        "Excel Start Date": "10/30/06",
+        "Excel End Date": "4/28/07",
+        "DateEnded": "2007-04-28",
+        "Provider": "Dr. Bradley",
+        "Refills": 5,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "ACE-I",
+        "MedicationName": "Lisinopril",
+        "DosagePerDay": "40 mg",
+        "Instructions": "Take two 20 mg tablets for a total of 40mg/day for 30 days.",
+        "Days": 30,
+        "DateStarted": "2007-04-30",
+        "Excel Start Date": "4/30/07",
+        "Excel End Date": "5/30/07",
+        "DateEnded": "2007-05-30",
+        "Provider": "Dr. Bradley",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "ACE-I",
+        "MedicationName": "Lisinopril",
+        "DosagePerDay": "40 mg",
+        "Instructions": "Take two 20 mg tablets for a total of 40mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2007-05-31",
+        "Excel Start Date": "5/31/07",
+        "Excel End Date": "5/30/08",
+        "DateEnded": "2008-05-30",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "ACE-I",
+        "MedicationName": "Lisinopril",
+        "DosagePerDay": "40 mg",
+        "Instructions": "Take two 20 mg tablets for a total of 40mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2008-05-31",
+        "Excel Start Date": "5/31/08",
+        "Excel End Date": "5/31/09",
+        "DateEnded": "2009-05-31",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "ACE-I",
+        "MedicationName": "Lisinopril",
+        "DosagePerDay": "40 mg",
+        "Instructions": "Take two 20 mg tablets for a total of 40mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2009-05-31",
+        "Excel Start Date": "5/31/09",
+        "Excel End Date": "5/31/10",
+        "DateEnded": "2010-05-31",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "ACE-I",
+        "MedicationName": "Lisinopril",
+        "DosagePerDay": "40 mg",
+        "Instructions": "Take two 20 mg tablets for a total of 40mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2010-05-31",
+        "Excel Start Date": "5/31/10",
+        "Excel End Date": "5/31/11",
+        "DateEnded": "2011-05-31",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "ACE-I",
+        "MedicationName": "Lisinopril",
+        "DosagePerDay": "40 mg",
+        "Instructions": "Take two 20 mg tablets for a total of 40mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2011-05-31",
+        "Excel Start Date": "5/31/11",
+        "Excel End Date": "5/30/12",
+        "DateEnded": "2012-05-30",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "ACE-I",
+        "MedicationName": "Lisinopril",
+        "DosagePerDay": "40 mg",
+        "Instructions": "Take two 20 mg tablets for a total of 40mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2012-05-31",
+        "Excel Start Date": "5/31/12",
+        "Excel End Date": "5/31/13",
+        "DateEnded": "2013-05-31",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "ACE-I",
+        "MedicationName": "Lisinopril",
+        "DosagePerDay": "40 mg",
+        "Instructions": "Take two 20 mg tablets for a total of 40mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2013-05-31",
+        "Excel Start Date": "5/31/13",
+        "Excel End Date": "5/31/14",
+        "DateEnded": "2014-05-31",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "ACE-I",
+        "MedicationName": "Lisinopril",
+        "DosagePerDay": "40 mg",
+        "Instructions": "Take two 20 mg tablets for a total of 40mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2014-05-31",
+        "Excel Start Date": "5/31/14",
+        "Excel End Date": "5/31/15",
+        "DateEnded": "2015-05-31",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "ACE-I",
+        "MedicationName": "Lisinopril",
+        "DosagePerDay": "40 mg",
+        "Instructions": "Take two 20 mg tablets for a total of 40mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2015-05-31",
+        "Excel Start Date": "5/31/15",
+        "Excel End Date": "5/30/16",
+        "DateEnded": "2016-05-30",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "ACE-I",
+        "MedicationName": "Lisinopril",
+        "DosagePerDay": "40 mg",
+        "Instructions": "Take two 20 mg tablets for a total of 40mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2016-05-30",
+        "Excel Start Date": "5/30/16",
+        "Excel End Date": "5/30/17",
+        "DateEnded": "2017-05-30",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "CCB",
+        "MedicationName": "Amlodipine",
+        "DosagePerDay": "5 mg",
+        "Instructions": "Take one 5 mg tablet/day for 30 days.",
+        "Days": 30,
+        "DateStarted": "2008-09-29",
+        "Excel Start Date": "9/29/08",
+        "Excel End Date": "10/29/08",
+        "DateEnded": "2008-10-29",
+        "Provider": "Dr. Bradley",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "CCB",
+        "MedicationName": "Amlodipine",
+        "DosagePerDay": "5 mg",
+        "Instructions": "Take one 5 mg tablet/day for 30 days.",
+        "Days": 180,
+        "DateStarted": "2009-10-30",
+        "Excel Start Date": "10/30/09",
+        "Excel End Date": "4/28/10",
+        "DateEnded": "2010-04-28",
+        "Provider": "Dr. Bradley",
+        "Refills": 5,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "CCB",
+        "MedicationName": "Amlodipine",
+        "DosagePerDay": "5 mg",
+        "Instructions": "Take one 5 mg tablet/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2010-04-28",
+        "Excel Start Date": "4/28/10",
+        "Excel End Date": "4/28/11",
+        "DateEnded": "2011-04-28",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "CCB",
+        "MedicationName": "Amlodipine",
+        "DosagePerDay": "10 mg",
+        "Instructions": "Take two 5 mg tablets for a total of 10 mg/day for 30 days.",
+        "Days": 30,
+        "DateStarted": "2011-04-29",
+        "Excel Start Date": "4/29/11",
+        "Excel End Date": "5/29/11",
+        "DateEnded": "2011-05-29",
+        "Provider": "Dr. Bradley",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "CCB",
+        "MedicationName": "Amlodipine",
+        "DosagePerDay": "10 mg",
+        "Instructions": "Take two 5 mg tablets for a total of 10 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2011-05-30",
+        "Excel Start Date": "5/30/11",
+        "Excel End Date": "5/29/12",
+        "DateEnded": "2012-05-29",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "CCB",
+        "MedicationName": "Amlodipine",
+        "DosagePerDay": "10 mg",
+        "Instructions": "Take two 5 mg tablets for a total of 10 mg/day for 30 days.",
+        "Days": 180,
+        "DateStarted": "2012-05-30",
+        "Excel Start Date": "5/30/12",
+        "Excel End Date": "11/26/12",
+        "DateEnded": "2012-11-27",
+        "Provider": "Dr. Bradley",
+        "Refills": 5,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "CCB",
+        "MedicationName": "Amlodipine",
+        "DosagePerDay": "10 mg",
+        "Instructions": "Take two 5 mg tablets for a total of 10 mg/day for 30 days.",
+        "Days": 180,
+        "DateStarted": "2012-11-28",
+        "Excel Start Date": "11/28/12",
+        "Excel End Date": "5/27/13",
+        "DateEnded": "2013-05-27",
+        "Provider": "Dr. Bradley",
+        "Refills": 5,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "CCB",
+        "MedicationName": "Amlodipine",
+        "DosagePerDay": "10 mg",
+        "Instructions": "Take two 5 mg tablets for a total of 10 mg/day for 30 days.",
+        "Days": 180,
+        "DateStarted": "2013-05-28",
+        "Excel Start Date": "5/28/13",
+        "Excel End Date": "11/24/13",
+        "DateEnded": "2014-11-24",
+        "Provider": "Dr. Bradley",
+        "Refills": 5,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "CCB",
+        "MedicationName": "Amlodipine",
+        "DosagePerDay": "10 mg",
+        "Instructions": "Take two 5 mg tablets for a total of 10 mg/day for 30 days.",
+        "Days": 180,
+        "DateStarted": "2014-11-25",
+        "Excel Start Date": "11/25/14",
+        "Excel End Date": "5/24/15",
+        "DateEnded": "2015-05-24",
+        "Provider": "Dr. Bradley",
+        "Refills": 5,
+        "FillStatus": "Not filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "CCB",
+        "MedicationName": "Amlodipine",
+        "DosagePerDay": "10 mg",
+        "Instructions": "Take two 5 mg tablets for a total of 10 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2015-05-25",
+        "Excel Start Date": "5/25/15",
+        "Excel End Date": "5/24/16",
+        "DateEnded": "2016-05-24",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Not filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Hypertension",
+        "DrugType": "CCB",
+        "MedicationName": "Amlodipine",
+        "DosagePerDay": "10 mg",
+        "Instructions": "Take two 5 mg tablets for a total of 10 mg/day for 30 days.",
+        "Days": 365,
+        "DateStarted": "2016-05-25",
+        "Excel Start Date": "5/25/16",
+        "Excel End Date": "5/25/17",
+        "DateEnded": "2017-05-25",
+        "Provider": "Dr. Bradley",
+        "Refills": 11,
+        "FillStatus": "Not filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "Pneumonia",
+        "DrugType": "Macrolide",
+        "MedicationName": "Azithromycin",
+        "DosagePerDay": "500 mg/ 250 mg",
+        "Instructions": "Take one dose of 500 mg PO, then 250 mg PO for 4 days.",
+        "Days": 5,
+        "DateStarted": "2012-12-07",
+        "Excel Start Date": "12/7/12",
+        "Excel End Date": "12/12/12",
+        "DateEnded": "2012-12-12",
+        "Provider": "Dr. Emerman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Daily",
+        "OrderStatus": "Complete",
+        "Pharmacy": "CVS Pharmacy, 528 Beaver St, Durham, NC 27705"
+      },
+      {
+        "Condition": "SCLC",
+        "DrugType": "Alkylating agent",
+        "MedicationName": "Cisplatin",
+        "DosagePerDay": "120 mg",
+        "Instructions": "Give 60mg/m2 IV on day 1 every 3 weeks for 4 cycles.",
+        "Days": 21,
+        "DateStarted": "2007-02-22",
+        "Excel Start Date": "2/22/07",
+        "Excel End Date": "3/15/07",
+        "DateEnded": "2007-03-15",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "IV",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "SCLC",
+        "DrugType": "Alkylating agent",
+        "MedicationName": "Cisplatin",
+        "DosagePerDay": "120 mg",
+        "Instructions": "Give 60mg/m2 IV on day 1 every 3 weeks for 4 cycles.",
+        "Days": 21,
+        "DateStarted": "2007-03-16",
+        "Excel Start Date": "3/16/07",
+        "Excel End Date": "4/6/07",
+        "DateEnded": "2007-04-06",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "IV",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "SCLC",
+        "DrugType": "Alkylating agent",
+        "MedicationName": "Cisplatin",
+        "DosagePerDay": "120 mg",
+        "Instructions": "Give 60mg/m2 IV on day 1 every 3 weeks for 4 cycles.",
+        "Days": 21,
+        "DateStarted": "2007-04-07",
+        "Excel Start Date": "4/7/07",
+        "Excel End Date": "4/28/07",
+        "DateEnded": "2007-04-28",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "IV",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "SCLC",
+        "DrugType": "Alkylating agent",
+        "MedicationName": "Cisplatin",
+        "DosagePerDay": "120 mg",
+        "Instructions": "Give 60mg/m2 IV on day 1 every 3 weeks for 4 cycles.",
+        "Days": 21,
+        "DateStarted": "2007-04-29",
+        "Excel Start Date": "4/29/07",
+        "Excel End Date": "5/20/07",
+        "DateEnded": "2007-05-20",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "IV",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "SCLC",
+        "DrugType": "Topoisomerase II Inhibitor",
+        "MedicationName": "Etoposide",
+        "DosagePerDay": "200 mg",
+        "Instructions": "Give 100 mg/m2/day IV on days 1, 2, and 3 every 3 weeks up to a maximum of 6 cycles.�",
+        "Days": 21,
+        "DateStarted": "2007-02-22",
+        "Excel Start Date": "2/22/07",
+        "Excel End Date": "3/15/07",
+        "DateEnded": "2007-03-15",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "IV",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "SCLC",
+        "DrugType": "Topoisomerase II Inhibitor",
+        "MedicationName": "Etoposide",
+        "DosagePerDay": "200 mg",
+        "Instructions": "Give 100 mg/m2/day IV on days 1, 2, and 3 every 3 weeks up to a maximum of 6 cycles.�",
+        "Days": 21,
+        "DateStarted": "2007-03-16",
+        "Excel Start Date": "3/16/07",
+        "Excel End Date": "4/6/07",
+        "DateEnded": "2007-04-06",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "IV",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "SCLC",
+        "DrugType": "Topoisomerase II Inhibitor",
+        "MedicationName": "Etoposide",
+        "DosagePerDay": "200 mg",
+        "Instructions": "Give 100 mg/m2/day IV on days 1, 2, and 3 every 3 weeks up to a maximum of 6 cycles.�",
+        "Days": 21,
+        "DateStarted": "2007-04-07",
+        "Excel Start Date": "4/7/07",
+        "Excel End Date": "4/28/07",
+        "DateEnded": "2007-04-28",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "IV",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "SCLC",
+        "DrugType": "Topoisomerase II Inhibitor",
+        "MedicationName": "Etoposide",
+        "DosagePerDay": "200 mg",
+        "Instructions": "Give 100 mg/m2/day IV on days 1, 2, and 3 every 3 weeks up to a maximum of 6 cycles.�",
+        "Days": 21,
+        "DateStarted": "2007-04-29",
+        "Excel Start Date": "4/29/07",
+        "Excel End Date": "5/20/07",
+        "DateEnded": "2007-05-20",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "IV",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "SCLC",
+        "DrugType": "Topoisomerase II Inhibitor",
+        "MedicationName": "Etoposide",
+        "DosagePerDay": "200 mg",
+        "Instructions": "Give 100 mg/m2/day IV on days 1, 2, and 3 every 3 weeks up to a maximum of 6 cycles.�",
+        "Days": 21,
+        "DateStarted": "2007-05-21",
+        "Excel Start Date": "5/21/07",
+        "Excel End Date": "6/11/07",
+        "DateEnded": "2007-06-11",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "IV",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "SCLC",
+        "DrugType": "Topoisomerase II Inhibitor",
+        "MedicationName": "Etoposide",
+        "DosagePerDay": "200 mg",
+        "Instructions": "Give 100 mg/m2/day IV on days 1, 2, and 3 every 3 weeks up to a maximum of 6 cycles.�",
+        "Days": 21,
+        "DateStarted": "2007-06-12",
+        "Excel Start Date": "6/12/07",
+        "Excel End Date": "7/3/07",
+        "DateEnded": "2007-07-03",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "IV",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "SCLC",
+        "DrugType": "Alkylating agent",
+        "MedicationName": "Carboplatin",
+        "DosagePerDay": "570 mg",
+        "Instructions": "Give target AUC 5 IV every 3 weeks (in combination with irinotecan) for 6 cycles.",
+        "Days": 21,
+        "DateStarted": "2008-07-04",
+        "Excel Start Date": "7/4/08",
+        "Excel End Date": "7/25/08",
+        "DateEnded": "2008-07-25",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "IV",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "SCLC",
+        "DrugType": "Alkylating agent",
+        "MedicationName": "Carboplatin",
+        "DosagePerDay": "570 mg",
+        "Instructions": "Give target AUC 5 IV every 3 weeks (in combination with irinotecan) for 6 cycles.",
+        "Days": 21,
+        "DateStarted": "2008-07-26",
+        "Excel Start Date": "7/26/08",
+        "Excel End Date": "8/16/08",
+        "DateEnded": "2008-08-16",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "IV",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "SCLC",
+        "DrugType": "Alkylating agent",
+        "MedicationName": "Carboplatin",
+        "DosagePerDay": "570 mg",
+        "Instructions": "Give target AUC 5 IV every 3 weeks (in combination with irinotecan) for 6 cycles.",
+        "Days": 21,
+        "DateStarted": "2008-08-17",
+        "Excel Start Date": "8/17/08",
+        "Excel End Date": "9/7/08",
+        "DateEnded": "2008-09-07",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "IV",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "SCLC",
+        "DrugType": "Alkylating agent",
+        "MedicationName": "Carboplatin",
+        "DosagePerDay": "570 mg",
+        "Instructions": "Give target AUC 5 IV every 3 weeks (in combination with irinotecan) for 6 cycles.",
+        "Days": 21,
+        "DateStarted": "2008-09-08",
+        "Excel Start Date": "9/8/08",
+        "Excel End Date": "9/29/08",
+        "DateEnded": "2008-09-29",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "IV",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "SCLC",
+        "DrugType": "Alkylating agent",
+        "MedicationName": "Carboplatin",
+        "DosagePerDay": "570 mg",
+        "Instructions": "Give target AUC 5 IV every 3 weeks (in combination with irinotecan) for 6 cycles.",
+        "Days": 21,
+        "DateStarted": "2008-09-30",
+        "Excel Start Date": "9/30/08",
+        "Excel End Date": "10/21/08",
+        "DateEnded": "2008-10-21",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "IV",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "SCLC",
+        "DrugType": "Alkylating agent",
+        "MedicationName": "Carboplatin",
+        "DosagePerDay": "570 mg",
+        "Instructions": "Give target AUC 5 IV every 3 weeks (in combination with irinotecan) for 6 cycles.",
+        "Days": 21,
+        "DateStarted": "2008-10-22",
+        "Excel Start Date": "10/22/08",
+        "Excel End Date": "11/12/08",
+        "DateEnded": "2008-11-12",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "IV",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "SCLC",
+        "DrugType": "Topoisomerase I Inhibitor",
+        "MedicationName": "Irinotecan",
+        "DosagePerDay": "350 mg",
+        "Instructions": "Give 175 mg/m2�IV day 1 every 3 weeks (in combination with carboplatin)�for 6 cycles.",
+        "Days": 21,
+        "DateStarted": "2008-07-04",
+        "Excel Start Date": "7/4/08",
+        "Excel End Date": "7/25/08",
+        "DateEnded": "2008-07-25",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "",
+        "Frequency": "",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "SCLC",
+        "DrugType": "Topoisomerase I Inhibitor",
+        "MedicationName": "Irinotecan",
+        "DosagePerDay": "350 mg",
+        "Instructions": "Give 175 mg/m2�IV day 1 every 3 weeks (in combination with carboplatin)�for 6 cycles.",
+        "Days": 21,
+        "DateStarted": "2008-07-26",
+        "Excel Start Date": "7/26/08",
+        "Excel End Date": "8/16/08",
+        "DateEnded": "2008-08-16",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "",
+        "Frequency": "",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "SCLC",
+        "DrugType": "Topoisomerase I Inhibitor",
+        "MedicationName": "Irinotecan",
+        "DosagePerDay": "350 mg",
+        "Instructions": "Give 175 mg/m2�IV day 1 every 3 weeks (in combination with carboplatin)�for 6 cycles.",
+        "Days": 21,
+        "DateStarted": "2008-08-17",
+        "Excel Start Date": "8/17/08",
+        "Excel End Date": "9/7/08",
+        "DateEnded": "2008-09-07",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "",
+        "Frequency": "",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "SCLC",
+        "DrugType": "Topoisomerase I Inhibitor",
+        "MedicationName": "Irinotecan",
+        "DosagePerDay": "350 mg",
+        "Instructions": "Give 175 mg/m2�IV day 1 every 3 weeks (in combination with carboplatin)�for 6 cycles.",
+        "Days": 21,
+        "DateStarted": "2008-09-08",
+        "Excel Start Date": "9/8/08",
+        "Excel End Date": "9/29/08",
+        "DateEnded": "2008-09-29",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "",
+        "Frequency": "",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "SCLC",
+        "DrugType": "Topoisomerase I Inhibitor",
+        "MedicationName": "Irinotecan",
+        "DosagePerDay": "350 mg",
+        "Instructions": "Give 175 mg/m2�IV day 1 every 3 weeks (in combination with carboplatin)�for 6 cycles.",
+        "Days": 21,
+        "DateStarted": "2008-09-30",
+        "Excel Start Date": "9/30/08",
+        "Excel End Date": "10/21/08",
+        "DateEnded": "2008-10-21",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "",
+        "Frequency": "",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "SCLC",
+        "DrugType": "Topoisomerase I Inhibitor",
+        "MedicationName": "Irinotecan",
+        "DosagePerDay": "350 mg",
+        "Instructions": "Give 175 mg/m2�IV day 1 every 3 weeks (in combination with carboplatin)�for 6 cycles.",
+        "Days": 21,
+        "DateStarted": "2008-10-22",
+        "Excel Start Date": "10/22/08",
+        "Excel End Date": "11/12/08",
+        "DateEnded": "2008-11-12",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "",
+        "Frequency": "",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "Nausea",
+        "DrugType": "Serontonin receptor antagonist",
+        "MedicationName": "Ondansetron",
+        "DosagePerDay": "8 mg",
+        "Instructions": "Take 8 mg beginning 30 minutes before chemotherapy; repeat dose 8 hours after initial dose, then 8 mg every 12 hours for 1 to 2 days after chemotherapy completed",
+        "Days": 21,
+        "DateStarted": "2007-02-22",
+        "Excel Start Date": "2/22/07",
+        "Excel End Date": "3/15/07",
+        "DateEnded": "2007-03-15",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "Nausea",
+        "DrugType": "Serontonin receptor antagonist",
+        "MedicationName": "Ondansetron",
+        "DosagePerDay": "8 mg",
+        "Instructions": "Take 8 mg beginning 30 minutes before chemotherapy; repeat dose 8 hours after initial dose, then 8 mg every 12 hours for 1 to 2 days after chemotherapy completed",
+        "Days": 21,
+        "DateStarted": "2007-03-16",
+        "Excel Start Date": "3/16/07",
+        "Excel End Date": "4/6/07",
+        "DateEnded": "2007-04-06",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "Nausea",
+        "DrugType": "Serontonin receptor antagonist",
+        "MedicationName": "Ondansetron",
+        "DosagePerDay": "8 mg",
+        "Instructions": "Take 8 mg beginning 30 minutes before chemotherapy; repeat dose 8 hours after initial dose, then 8 mg every 12 hours for 1 to 2 days after chemotherapy completed",
+        "Days": 21,
+        "DateStarted": "2007-04-07",
+        "Excel Start Date": "4/7/07",
+        "Excel End Date": "4/28/07",
+        "DateEnded": "2007-04-28",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "Nausea",
+        "DrugType": "Serontonin receptor antagonist",
+        "MedicationName": "Ondansetron",
+        "DosagePerDay": "8 mg",
+        "Instructions": "Take 8 mg beginning 30 minutes before chemotherapy; repeat dose 8 hours after initial dose, then 8 mg every 12 hours for 1 to 2 days after chemotherapy completed",
+        "Days": 21,
+        "DateStarted": "2007-04-29",
+        "Excel Start Date": "4/29/07",
+        "Excel End Date": "5/20/07",
+        "DateEnded": "2007-05-20",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "Nausea",
+        "DrugType": "Serontonin receptor antagonist",
+        "MedicationName": "Ondansetron",
+        "DosagePerDay": "8 mg",
+        "Instructions": "Take 8 mg beginning 30 minutes before chemotherapy; repeat dose 8 hours after initial dose, then 8 mg every 12 hours for 1 to 2 days after chemotherapy completed",
+        "Days": 21,
+        "DateStarted": "2007-05-21",
+        "Excel Start Date": "5/21/07",
+        "Excel End Date": "6/11/07",
+        "DateEnded": "2007-06-11",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "Nausea",
+        "DrugType": "Serontonin receptor antagonist",
+        "MedicationName": "Ondansetron",
+        "DosagePerDay": "8 mg",
+        "Instructions": "Take 8 mg beginning 30 minutes before chemotherapy; repeat dose 8 hours after initial dose, then 8 mg every 12 hours for 1 to 2 days after chemotherapy completed",
+        "Days": 21,
+        "DateStarted": "2007-06-12",
+        "Excel Start Date": "6/12/07",
+        "Excel End Date": "7/3/07",
+        "DateEnded": "2007-07-03",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "Nausea",
+        "DrugType": "Serontonin receptor antagonist",
+        "MedicationName": "Ondansetron",
+        "DosagePerDay": "8 mg",
+        "Instructions": "Take 8 mg beginning 30 minutes before chemotherapy; repeat dose 8 hours after initial dose, then 8 mg every 12 hours for 1 to 2 days after chemotherapy completed",
+        "Days": 21,
+        "DateStarted": "2008-07-04",
+        "Excel Start Date": "7/4/08",
+        "Excel End Date": "7/25/08",
+        "DateEnded": "2008-07-25",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "Nausea",
+        "DrugType": "Serontonin receptor antagonist",
+        "MedicationName": "Ondansetron",
+        "DosagePerDay": "8 mg",
+        "Instructions": "Take 8 mg beginning 30 minutes before chemotherapy; repeat dose 8 hours after initial dose, then 8 mg every 12 hours for 1 to 2 days after chemotherapy completed",
+        "Days": 21,
+        "DateStarted": "2008-07-26",
+        "Excel Start Date": "7/26/08",
+        "Excel End Date": "8/16/08",
+        "DateEnded": "2008-08-16",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "Nausea",
+        "DrugType": "Serontonin receptor antagonist",
+        "MedicationName": "Ondansetron",
+        "DosagePerDay": "8 mg",
+        "Instructions": "Take 8 mg beginning 30 minutes before chemotherapy; repeat dose 8 hours after initial dose, then 8 mg every 12 hours for 1 to 2 days after chemotherapy completed",
+        "Days": 21,
+        "DateStarted": "2008-08-17",
+        "Excel Start Date": "8/17/08",
+        "Excel End Date": "9/7/08",
+        "DateEnded": "2008-09-07",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "Nausea",
+        "DrugType": "Serontonin receptor antagonist",
+        "MedicationName": "Ondansetron",
+        "DosagePerDay": "8 mg",
+        "Instructions": "Take 8 mg beginning 30 minutes before chemotherapy; repeat dose 8 hours after initial dose, then 8 mg every 12 hours for 1 to 2 days after chemotherapy completed",
+        "Days": 21,
+        "DateStarted": "2008-09-08",
+        "Excel Start Date": "9/8/08",
+        "Excel End Date": "9/29/08",
+        "DateEnded": "2008-09-29",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "Nausea",
+        "DrugType": "Serontonin receptor antagonist",
+        "MedicationName": "Ondansetron",
+        "DosagePerDay": "8 mg",
+        "Instructions": "Take 8 mg beginning 30 minutes before chemotherapy; repeat dose 8 hours after initial dose, then 8 mg every 12 hours for 1 to 2 days after chemotherapy completed",
+        "Days": 21,
+        "DateStarted": "2008-09-30",
+        "Excel Start Date": "9/30/08",
+        "Excel End Date": "10/21/08",
+        "DateEnded": "2008-10-21",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "Nausea",
+        "DrugType": "Serontonin receptor antagonist",
+        "MedicationName": "Ondansetron",
+        "DosagePerDay": "8 mg",
+        "Instructions": "Take 8 mg beginning 30 minutes before chemotherapy; repeat dose 8 hours after initial dose, then 8 mg every 12 hours for 1 to 2 days after chemotherapy completed",
+        "Days": 21,
+        "DateStarted": "2008-10-22",
+        "Excel Start Date": "10/22/08",
+        "Excel End Date": "11/12/08",
+        "DateEnded": "2008-11-12",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "Nausea",
+        "DrugType": "Dopamine receptor antagonist",
+        "MedicationName": "Metoclopromide",
+        "DosagePerDay": "80 mg",
+        "Instructions": "1 mg/kg over 15 minutes 30 minutes before chemotherapy; repeat every 2 hours for 2 doses, then every 3 hours for 3 doses",
+        "Days": 21,
+        "DateStarted": "2007-02-22",
+        "Excel Start Date": "2/22/07",
+        "Excel End Date": "3/15/07",
+        "DateEnded": "2007-03-15",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "Nausea",
+        "DrugType": "Dopamine receptor antagonist",
+        "MedicationName": "Metoclopromide",
+        "DosagePerDay": "80 mg",
+        "Instructions": "1 mg/kg over 15 minutes 30 minutes before chemotherapy; repeat every 2 hours for 2 doses, then every 3 hours for 3 doses",
+        "Days": 21,
+        "DateStarted": "2007-03-16",
+        "Excel Start Date": "3/16/07",
+        "Excel End Date": "4/6/07",
+        "DateEnded": "2007-04-06",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "Nausea",
+        "DrugType": "Dopamine receptor antagonist",
+        "MedicationName": "Metoclopromide",
+        "DosagePerDay": "80 mg",
+        "Instructions": "1 mg/kg over 15 minutes 30 minutes before chemotherapy; repeat every 2 hours for 2 doses, then every 3 hours for 3 doses",
+        "Days": 21,
+        "DateStarted": "2007-04-07",
+        "Excel Start Date": "4/7/07",
+        "Excel End Date": "4/28/07",
+        "DateEnded": "2007-04-28",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "Nausea",
+        "DrugType": "Dopamine receptor antagonist",
+        "MedicationName": "Metoclopromide",
+        "DosagePerDay": "80 mg",
+        "Instructions": "1 mg/kg over 15 minutes 30 minutes before chemotherapy; repeat every 2 hours for 2 doses, then every 3 hours for 3 doses",
+        "Days": 21,
+        "DateStarted": "2007-04-29",
+        "Excel Start Date": "4/29/07",
+        "Excel End Date": "5/20/07",
+        "DateEnded": "2007-05-20",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "Nausea",
+        "DrugType": "Dopamine receptor antagonist",
+        "MedicationName": "Metoclopromide",
+        "DosagePerDay": "80 mg",
+        "Instructions": "1 mg/kg over 15 minutes 30 minutes before chemotherapy; repeat every 2 hours for 2 doses, then every 3 hours for 3 doses",
+        "Days": 21,
+        "DateStarted": "2007-05-21",
+        "Excel Start Date": "5/21/07",
+        "Excel End Date": "6/11/07",
+        "DateEnded": "2007-06-11",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "Nausea",
+        "DrugType": "Dopamine receptor antagonist",
+        "MedicationName": "Metoclopromide",
+        "DosagePerDay": "80 mg",
+        "Instructions": "1 mg/kg over 15 minutes 30 minutes before chemotherapy; repeat every 2 hours for 2 doses, then every 3 hours for 3 doses",
+        "Days": 21,
+        "DateStarted": "2007-06-12",
+        "Excel Start Date": "6/12/07",
+        "Excel End Date": "7/3/07",
+        "DateEnded": "2007-07-03",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "Nausea",
+        "DrugType": "Dopamine receptor antagonist",
+        "MedicationName": "Metoclopromide",
+        "DosagePerDay": "80 mg",
+        "Instructions": "1 mg/kg over 15 minutes 30 minutes before chemotherapy; repeat every 2 hours for 2 doses, then every 3 hours for 3 doses",
+        "Days": 21,
+        "DateStarted": "2008-07-04",
+        "Excel Start Date": "7/4/08",
+        "Excel End Date": "7/25/08",
+        "DateEnded": "2008-07-25",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "Nausea",
+        "DrugType": "Dopamine receptor antagonist",
+        "MedicationName": "Metoclopromide",
+        "DosagePerDay": "80 mg",
+        "Instructions": "1 mg/kg over 15 minutes 30 minutes before chemotherapy; repeat every 2 hours for 2 doses, then every 3 hours for 3 doses",
+        "Days": 21,
+        "DateStarted": "2008-07-26",
+        "Excel Start Date": "7/26/08",
+        "Excel End Date": "8/16/08",
+        "DateEnded": "2008-08-16",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "Nausea",
+        "DrugType": "Dopamine receptor antagonist",
+        "MedicationName": "Metoclopromide",
+        "DosagePerDay": "80 mg",
+        "Instructions": "1 mg/kg over 15 minutes 30 minutes before chemotherapy; repeat every 2 hours for 2 doses, then every 3 hours for 3 doses",
+        "Days": 21,
+        "DateStarted": "2008-08-17",
+        "Excel Start Date": "8/17/08",
+        "Excel End Date": "9/7/08",
+        "DateEnded": "2008-09-07",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "Nausea",
+        "DrugType": "Dopamine receptor antagonist",
+        "MedicationName": "Metoclopromide",
+        "DosagePerDay": "80 mg",
+        "Instructions": "1 mg/kg over 15 minutes 30 minutes before chemotherapy; repeat every 2 hours for 2 doses, then every 3 hours for 3 doses",
+        "Days": 21,
+        "DateStarted": "2008-09-08",
+        "Excel Start Date": "9/8/08",
+        "Excel End Date": "9/29/08",
+        "DateEnded": "2008-09-29",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "Nausea",
+        "DrugType": "Dopamine receptor antagonist",
+        "MedicationName": "Metoclopromide",
+        "DosagePerDay": "80 mg",
+        "Instructions": "1 mg/kg over 15 minutes 30 minutes before chemotherapy; repeat every 2 hours for 2 doses, then every 3 hours for 3 doses",
+        "Days": 21,
+        "DateStarted": "2008-09-30",
+        "Excel Start Date": "9/30/08",
+        "Excel End Date": "10/21/08",
+        "DateEnded": "2008-10-21",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      },
+      {
+        "Condition": "Nausea",
+        "DrugType": "Dopamine receptor antagonist",
+        "MedicationName": "Metoclopromide",
+        "DosagePerDay": "80 mg",
+        "Instructions": "1 mg/kg over 15 minutes 30 minutes before chemotherapy; repeat every 2 hours for 2 doses, then every 3 hours for 3 doses",
+        "Days": 21,
+        "DateStarted": "2008-10-22",
+        "Excel Start Date": "10/22/08",
+        "Excel End Date": "11/12/08",
+        "DateEnded": "2008-11-12",
+        "Provider": "Dr. Searlman",
+        "Refills": 0,
+        "FillStatus": "Filled",
+        "Route": "Oral",
+        "Frequency": "Per instructions",
+        "OrderStatus": "Complete",
+        "Pharmacy": "Duke Hospital Inpatient Unit"
+      }
+    ]
+
 };
 
 prepData();
@@ -3073,7 +3111,7 @@ function prepData(){
 
             var curDate = new Date();
             var isoDate = curDate.toISOString().substring(0,10);
-            
+
 
             if(med.DateEnded.substring(0,4) >= "2016"){
                 console.log(med.DateEnded);
@@ -3135,10 +3173,10 @@ function prepData(){
                 (function(p,pass){
                     btn.addEventListener("click", function() {
                        assoc(p,pass);
-                       toggleOff();      
+                       toggleOff();
                     }, false);})(p,pass);
 
-                    
+
             }
 
             function toggleOff(){
@@ -3157,14 +3195,14 @@ function prepData(){
                     }, false);})(p,pass);
 
 
-               
+
                 console.log("test tes test");
             }
 
         }
 
         function condPop(p){
-            var select = document.getElementById("cond_content"); 
+            var select = document.getElementById("cond_content");
             //assoc(p,"all");
 
             // make all link
@@ -3263,7 +3301,7 @@ function prepData(){
                         id: 0,
                         obj: med
                     })
-                } 
+                }
                 document.getElementById("timelineFrame").innerHTML = "";
                 setData(drugsNew, spansNew);
             }
@@ -3304,8 +3342,8 @@ function prepData(){
             var strDict = {}
             dataUlt = [];
 
-           
-            
+
+
             for (var i = 0; i < spans.length; i++) {
                 var fullname, start, days, dose, type; //dosage from label
                 var name = "";
@@ -3382,8 +3420,8 @@ function prepData(){
                     dataIndex[name] = keyCount;
                     keyCount += 1;
                     strDict[name] = [dose];
-                }     
-            } 
+                }
+            }
 
             // str dose function
             for (var i = 0; i < dataUlt.length; i++) {
@@ -3392,7 +3430,7 @@ function prepData(){
                             return parseFloat(a.split(" ")[0]) - parseFloat(b.split(" ")[0])})
 
                 for(var j = 0; j<dataUlt[i].dates.length; j++){
-                    var strFactor = (sorted.indexOf(dataUlt[i].dates[j].dosage) + 1) / 
+                    var strFactor = (sorted.indexOf(dataUlt[i].dates[j].dosage) + 1) /
                                     (sorted.length + 1);
                     if(sorted.indexOf(dataUlt[i].dates[j].dosage) == sorted.length-1){
                         strFactor = 1.5;
@@ -3400,7 +3438,7 @@ function prepData(){
                     dataUlt[i].dates[j].strength = strFactor;
                 }
             }
-            
+
             // *** DOESN'T WORK ***
       //       dataSet = [{"label": "insulin glargine", "dates":[{"startdate": new Date(2012,10,19), "enddate": new Date(2013,8,19), "strength": 8, "dosage": 28, "dosage2": "", "dosage3": " u"}]},
             // {"label": "omeprazole", "dates":[{"startdate": new Date(2012,4,19), "enddate": new Date(2013,0,31), "strength": 16, "dosage": 40, "dosage2": "", "dosage3": " mg"}, {"startdate": new Date(2013,2,07), "enddate": new Date(2013,8,19), "strength": 16, "dosage": 40, "dosage2": "", "dosage3": " mg"}]}];
@@ -3437,7 +3475,7 @@ function getRandomColor() {
 
 function sendData(data){
     // set data here
-    
+
     data.sort(function(a,b){
         //console.log("test",a.dtype);
         var textA = a.dates[0].startdate;
@@ -3465,99 +3503,99 @@ function renderTimeLine(data){
          if(! (data[obj].dtype in colorDict) ){
             colorDict[data[obj].dtype] = getRandomColor();
         }
-        
+
     }
     console.log("work?",colorDict);
-    
+
 
     var group, barGroup, context, scruboffset = 0, scrubData, t1, scrubDisplay, circGroup;
-        
+
     var m = [60, 120, 0, 120]; // top right bottom left
     var m2 = [420, 120, 15, 60];
-    var w = 900 - m[1] - m[3]; // width    
+    var w = 900 - m[1] - m[3]; // width
     var h = 600 - m[0] - m[2]; // height
     var h2 = 600 - m2[0] - m2[2];
-    
+
     var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];              //Array to display the current month on the TodayLine
-    
+
     //Data array for the timeline
     // fn to add in medication for each patient. filter later
-    x=d3.time.scale().range([126, w + 160]);        //X-axis 
+    x=d3.time.scale().range([126, w + 160]);        //X-axis
     x2 = d3.time.scale().range([126, w + 160]);     //X-axis in the scrubber region
     var startdates=[];                                  //Array to store the startdates
     var enddates=[];                                    //Array to store the enddates
-    
-    //This loop adds the startdates and enddates into the respective arrays 
+
+    //This loop adds the startdates and enddates into the respective arrays
     for(var i = 0; i < data.length; i++){
         for(var j = 0; j < data[i].dates.length; j++){
             startdates[startdates.length] = new Date(data[i].dates[j].startdate);
             enddates[enddates.length] = new Date(data[i].dates[j].enddate);
         }
     }
-        
+
     minDate = startdates[0]; //Variable to store the minimum Date
     maxDate = enddates[0]; //Variable to store the maximum Date
-        
+
     //Loop to find out the min and max Date
     for(var i = 1; i < startdates.length; i++){
         if(startdates[i] < minDate)
             minDate = startdates[i];
-            
+
         if(enddates[i] > maxDate)
             maxDate = enddates[i];
     }
-        
+
     minDate = new Date(minDate.getFullYear(),0,1);
     maxDate = new Date(maxDate.getFullYear()+1,0,1);
     var lDate = new Date(); //Variable to store the left date to set brush extent
-    var rDate = new Date(); //Variable to store the right date to set brush extent 
-    var currDate = new Date(2013,8,18); //Stores the current Date       
-    
+    var rDate = new Date(); //Variable to store the right date to set brush extent
+    var currDate = new Date(2013,8,18); //Stores the current Date
+
     var w1  = 1100 - 960; //calculate offset so that the today line (currDate) is aligned with the scrubber ( 1100 is the width of svg, 960 is the width being shown)
     rDate = maxDate;
     lDate = minDate;
-    
+
     //Moves the small today's date line so that it lines up with the large today's date line.
     //Only works for the date September, 18, 2013
     var sudoMaxDate = maxDate;
     sudoMaxDate.setMonth(sudoMaxDate.getMonth() + 3);
     sudoMaxDate.setDate(sudoMaxDate.getDate() - 20);
-        
-    //Setting the domain of the x-axis  
+
+    //Setting the domain of the x-axis
     x.domain([minDate, maxDate]);
     x2.domain([minDate, sudoMaxDate]);
-        
-    //Setting the Y-axis    
+
+    //Setting the Y-axis
     var y=d3.scale.linear().domain([0, 19]).range([75, h-40]);
     var y2 = d3.scale.linear().domain([0, data.length]).range([0, 48]);
-    
-    //Declaring the zoom behavior   
+
+    //Declaring the zoom behavior
     zoom = d3.behavior.zoom()
                 .scaleExtent([.7, 1.3])
                 .on("zoom", zoomed);
-    
-    //Declaring the brush               
+
+    //Declaring the brush
     brush = d3.svg.brush()
                 .x(x2)
                 .extent([lDate, rDate])
                 .on("brush", brushed);
-    
-    //Declaring the drag for the scrubber               
+
+    //Declaring the drag for the scrubber
     var drag = d3.behavior.drag()
                 .on("dragstart",scrubstart)
                 .on("drag", scrub);
     var vDrag = d3.behavior.drag()
                 .on("drag",scrolldrag);
-                
-    //Creating the chart area   
+
+    //Creating the chart area
     var chart=d3.select('#timelineFrame').append("svg")
                 .classed("chart", true)
                 .attr("width", w+m[1]+50)
                 .attr("height",h+m[0]+m[2]);
-    
-    //Appending a rectangular pane to the chart area    
+
+    //Appending a rectangular pane to the chart area
     var pane = chart.append("g");
-    
+
     pane.append("rect")
         .attr("class", "pane")
         .attr("x", 126)
@@ -3566,13 +3604,13 @@ function renderTimeLine(data){
         .attr("height", h - 80)
         .attr("stroke", "#EEEEEE")
         .attr("stroke-width", 1);
-    //Setting the x-axis                
+    //Setting the x-axis
     var xaxis=d3.svg.axis()
                 .scale(x)
                 .orient("top")
                 .tickSize(h-80)
                 .tickPadding(13);
-                
+
     var xaxis2 = d3.svg.axis()
                     .scale(x2)
                     .orient("bottom")
@@ -3589,17 +3627,17 @@ function renderTimeLine(data){
             .attr("transform", "translate(-20, "+ (h-25) + ")")
             .attr("font-size", "15px")
             .call(xaxis);
-        
-    //Variable to create the timeline bars      
+
+    //Variable to create the timeline bars
     var medicines=chart.selectAll(".medicineGroup").data(data).enter().append('g').classed("medicineGroup", true)
                             .attr('transform', function(d, i){ return 'translate(-20,'+ (y(i)) +')' }) ;
-    
+
     //Selects each medicine group and draws the reactangle for each drug
     //based on the start date and end date in the data array and displays the
-    //dosage of each drug for a given period of time                            
+    //dosage of each drug for a given period of time
     medicines.each(function(d, i){
         group=d3.select(this);
-        barGroup = group.append("g").classed("barGroup", true); //Appends timeline bars and text to the bars        
+        barGroup = group.append("g").classed("barGroup", true); //Appends timeline bars and text to the bars
         barGroup.selectAll(".timeBars")
             .data(d.dates)
             .enter()
@@ -3639,7 +3677,7 @@ function renderTimeLine(data){
             })
             .attr("cursor", "move")
             .on("click", function (d) {
-                
+
                 showDialog({
                     title: d.obj.MedicationName,
                     text: 'This dialog can be closed by pressing ESC or clicking outside of the dialog.<br/>Pressing "YAY" will fire the configured action.',
@@ -3668,7 +3706,7 @@ function renderTimeLine(data){
             .call(zoom);
 
             // test for adding other data to timeline
-            // circGroup = group.append("g").classed("circGroup", true); //Appends timeline bars and text to the bars       
+            // circGroup = group.append("g").classed("circGroup", true); //Appends timeline bars and text to the bars
             // circGroup.selectAll(".timeBars")
             // .data(d.dates)
             // .enter()
@@ -3677,7 +3715,7 @@ function renderTimeLine(data){
             // .classed("timeBars", true)
             // .attr("cursor", "move")
             // .call(zoom);
-            
+
         barGroup.selectAll(".timeBarstext")
                 .data(d.dates)
                 .enter()
@@ -3687,33 +3725,33 @@ function renderTimeLine(data){
                 .attr("fill", "white")
                 .attr("text-anchor", "end")
                 .attr("font-size", "11px")
-                .text(function(d){return d.dosage;});   
+                .text(function(d){return d.dosage;});
     });
-    
+
     pane.call(zoom);
     // var todayLine = chart.append("g"); //Appends a line indicatiin current date and month
-    
+
     //Append triangle above the line
     // todayLine.append("path")
     //         .attr("class", "todayTriangle")
     //         .attr("d", d3.svg.symbol().type("triangle-down"))
     //         .attr("transform", "translate(" + (x(currDate) - 220) + ", 60)")
     //         .attr("fill", "#000000");
-                
+
     // todayLine.append("line")
     //         .attr("class", "todayLine")
     //         .attr("y1", 62)
     //         .attr("y2", h-25)
     //         .attr("stroke", "#999999")
     //         .attr("stroke-width", 2);
-                
+
     var day = currDate.getDate();
     var month = currDate.getMonth();
-    var newDate = monthNames[month] + " " + day; //Stores the current date and month 
-   
+    var newDate = monthNames[month] + " " + day; //Stores the current date and month
+
     //Append the drug names on the y-axis
     var yAxisLabel = chart.append("g");
-    
+
     yAxisLabel.append("rect")
             .attr("class", "yAxisRect")
             .attr("x", 0)
@@ -3722,7 +3760,7 @@ function renderTimeLine(data){
             .attr("height", h+50)
             .attr("stroke", "white")
             .attr("fill", "white");
-    
+
     medicines.each(function(d, i){
         //var label = d.label + " " + d.label;
         var color = colorDict[d.dtype];
@@ -3747,11 +3785,11 @@ function renderTimeLine(data){
             .attr("width", 175)
             .attr("height", h+50)
             .attr("fill", "white");
-    
+
     //Appends a draggable rectangle over the bars to display the names of the drugs
-    //selected by the it while dragging     
-    scrubber=chart.append("g");                                 
-    
+    //selected by the it while dragging
+    scrubber=chart.append("g");
+
     //Creates the draggable rectangle (indeed, the scrub display on the right)
     scrubber.append("rect")
         .attr("class", "scrubber")
@@ -3769,14 +3807,14 @@ function renderTimeLine(data){
 
     //Create a line in the middle where dose display will be shown if highlighted over
     var midLine = chart.append("g"); //Appends a line indicatiin current date and month
-    
+
     //Append triangle above the line
     // midLine.append("path")
     //      .attr("class", "todayTriangle")
     //      .attr("d", d3.svg.symbol().type("triangle-down"))
     //      .attr("transform", "translate(" + (x(currDate) - 220) + ", 60)")
     //      .attr("fill", "#999999");
-                
+
     midLine.append("rect")
         .attr("class", "scrubber")
         .attr("x", w/2)
@@ -3796,8 +3834,8 @@ function renderTimeLine(data){
             .attr("d", d3.svg.symbol().type("triangle-down"))
             .attr("transform", "translate(" + w/2 + ", 60)")
             .attr("fill", "#000000");
-        
-    //Appends text over the scrubber and initially makes them invisible 
+
+    //Appends text over the scrubber and initially makes them invisible
     medicines.each(function(d, i){
         scrubDisplay = scrubber.append("g")
                             .attr("transform",this.attributes[1].value)
@@ -3842,7 +3880,7 @@ function renderTimeLine(data){
             .attr("fill", "rgba(67,67,67,.5)")
             .attr("font-size", "12px")
             .call(xaxis3);
-    //Append text above the line            
+    //Append text above the line
     // var todayLineText=chart.append("g");
     // todayLineText.append("text")
     //         .attr("class", "todayLineText")
@@ -3853,10 +3891,10 @@ function renderTimeLine(data){
     //         .attr("fill", "black")
     //         .attr("font-size", "11px")
     //         .text("Today " + newDate);
-    
+
     //A vertical scroll bar to scroll the chart vertically
-    scrollBar=chart.append("g");            
-    
+    scrollBar=chart.append("g");
+
     scrollBar.append("rect")
             .attr("class", "vScroller")
             .attr("x", 1108)
@@ -3872,8 +3910,8 @@ function renderTimeLine(data){
     //region one wants to view
     context = chart.append("g")
                 .attr("transform", "translate(0 , " + (m2[0]+ 30) + ")");
-    
-    //Appends a rectangular region to display the mini timeline         
+
+    //Appends a rectangular region to display the mini timeline
     context.append("rect")
             .attr("x", 126)
             .attr("width", w + 40)
@@ -3888,24 +3926,24 @@ function renderTimeLine(data){
         .attr("width", w+100)
         .attr("height", h2)
         .attr("fill", "white");
-    //Appends x-axis to the context area        
+    //Appends x-axis to the context area
     context.append("g")
         .attr("class", "x axis")
         .attr("fill", "rgba(67,67,67,.5)")
         .attr("transform", "translate(0, " + (h2-55) + ")")
         .call(xaxis2);
-    
-    //Creates the timeline bars in the context area 
+
+    //Creates the timeline bars in the context area
     var contextBars = context.selectAll(".medicineGroup").data(data)
                             .enter().append("g")
                             .classed("contextBar", true)
                             .attr("transform", function(d, i){ return "translate(0, " + (y2(i)) + ")" ;});
-    
+
     //Selects each medicine group and draws the reactangle for each drug
-    //based on the start date and end date in the data array                        
+    //based on the start date and end date in the data array
     contextBars.each(function(d, i){
         var cGroup = d3.select(this);
-        
+
         cGroup.selectAll(".contextBars")
                 .data(d.dates)
                 .enter()
@@ -3939,7 +3977,7 @@ function renderTimeLine(data){
                     // }
                 });
     });
-    
+
     //Appends a line indicating the current date in the context region
     // context.append("line")
     //         .attr("class", "contextLine")
@@ -3950,39 +3988,39 @@ function renderTimeLine(data){
     //         .attr("stroke-width", 1)
     //         .attr("stroke", "black")
     //         .attr("stroke-opacity", .5);
-    
-    //Appends a brush over the context region   
+
+    //Appends a brush over the context region
     b = context.append("g")
             .attr("class", "x brush");
-    
-    //Adding visible left and right circle handles    
+
+    //Adding visible left and right circle handles
     var leftHandle = b.append("svg:circle")
         .attr("r", 7)
         .attr("cx",150)
         .attr("cy",25);
-        
+
     var rightHandle = b.append("svg:circle")
         .attr("r", 7)
         .attr("cx",175)
         .attr("cy",25);
-    
-    //makes sure that dragging the circles (handles) calls the brush function... otherwise dragging is broken in that region.    
+
+    //makes sure that dragging the circles (handles) calls the brush function... otherwise dragging is broken in that region.
     b.call(brush);
-        
+
     b.selectAll("rect")
         .attr("y", -4)
         .attr("height", 58);
-        
+
     b.selectAll(".resize.e rect").attr("width", 25).attr("x", -5);
     b.selectAll(".resize.w rect").attr("width", 25).attr("x", -5);
-        
+
     chart.append("rect")
         .attr("x", 1119)
         .attr("width", 1)
         .attr("y", 55)
         .attr("height", h-20)
         .attr("stroke", "#EEEEEE");
-    
+
     chart.append("rect")
         .attr("x", 1120)
         .attr("width", 50)
@@ -3996,11 +4034,11 @@ function renderTimeLine(data){
             .attr("height", 55)
             .attr("fill", "white");
     //This function updates the timeline bars when zooming or dragging based on the
-    //x-axis and redraws them   
+    //x-axis and redraws them
     function updateBars(){
         medicines.each(function(d, i){
             group=d3.select(this);
-            
+
             group.select(".barGroup").selectAll(".timeBars").each(function(d){
                 d3.select(this)
                 .attr("x", function(d){ return x(d.startdate);})
@@ -4025,15 +4063,15 @@ function renderTimeLine(data){
                                 });
             });
         });
-    }   
-    
-    // //This function sets the scrub offset on start of drag   
+    }
+
+    // //This function sets the scrub offset on start of drag
     function scrubstart(d){
         scruboffset = 0;
     }
-    
+
     // //This allows to move the scrubber over the bars and sets the extent to which it can
-    // //be dragged 
+    // //be dragged
     function scrub(d){
         //console.log(d3.event.dy);
         if(d3.event.x-scruboffset >= 1080)
@@ -4045,7 +4083,7 @@ function renderTimeLine(data){
         //On dragging the scrubber updates the names of the drugs selected by it
         updateOnScrub();
     }
-    
+
     //Displays the drug names over the scrubber based on the time bars selected by it
     updateOnScrub = function(){
         var ind = 0;
@@ -4053,8 +4091,8 @@ function renderTimeLine(data){
             var scrubGroup = d3.select(this);
             scrubGroup.selectAll(".displayLabel").attr("x",scrubber.select(".scrubber").attr("x")*1 + 30)
                 .attr("fill","none");
-            
-            // Dosage location? 
+
+            // Dosage location?
             scrubGroup.selectAll(".displayDose").attr("x",scrubber.select(".scrubber").attr("x")*1 + 125)
                 .attr("fill","none");
 
@@ -4065,9 +4103,9 @@ function renderTimeLine(data){
             //console.log(scrubGroup)
             // old location relative to scrubber: 1*scrubber.select(".scrubber").attr("x")+200
             for(var i = 0; i < data[ind].dates.length; i++){
-                if((x.invert(w/2 - 1) < data[ind].dates[i].enddate) && 
+                if((x.invert(w/2 - 1) < data[ind].dates[i].enddate) &&
                     (x.invert(w/2 + 10) > data[ind].dates[i].startdate)){
-                    
+
                     // text TEMPTEST dose
                     scrubGroup.selectAll(".displayLabel").each(function(d){
                         d3.select(this)
@@ -4087,17 +4125,17 @@ function renderTimeLine(data){
         //Updating yAxis labels of the timeline
         updateYLabels();
     };
-    
+
     //Changes the color of the yAxis labels based on the bars selected by the scrubber to
     //indicate active and inactive medicines.
 
 
         updateYLabels = function(){
-            var scrubberArray=[];               
+            var scrubberArray=[];
             scrubberArray=scrubber.selectAll(".displayLabel")[0]; //Adds the bars selected by the scrubber to this array
             var yLabelArray=d3.selectAll(".yAxisText")[0]; //Adds the yAxis text to this array
-            
-            for(var k=0; k<scrubberArray.length; k++){      
+
+            for(var k=0; k<scrubberArray.length; k++){
                 if(scrubberArray[k].attributes[1].value == "rgba(67,67,67,1)"){
                     d3.select(yLabelArray[k]).attr("fill", "rgba(67,67,67,1)");
                 }else{
@@ -4107,15 +4145,15 @@ function renderTimeLine(data){
         };
 
     // updateYLabels = function(){
-    //     var scrubberArray=[];               
+    //     var scrubberArray=[];
     //     scrubberArray=scrubber.selectAll(".displayLabel")[0]; //Adds the bars selected by the scrubber to this array
     //     var yLabelArray=d3.selectAll(".yAxisText")[0]; //Adds the yAxis text to this array
-        
+
 
 
 
     //     // TEMPTEST COLOR CHANGE
-    //     for(var k=0; k<scrubberArray.length; k++){    
+    //     for(var k=0; k<scrubberArray.length; k++){
 
     //         //curLabel = yLabelArray[k].attributes[0].ownerElement.innerHTML;
     //         //color = colorDict[curLabel];
@@ -4154,7 +4192,7 @@ function renderTimeLine(data){
     };
     //Updates the position of the labels on the left, on the scrubber and the drags the chart
     //when the scroll bar is dragged
-    updateOnScroll = function(yVal){ 
+    updateOnScroll = function(yVal){
         chart.selectAll(".medicineGroup").each(function(d,j){
             var tranStr = d3.select(this).attr("transform");
             if(tranStr != null)
@@ -4188,7 +4226,7 @@ function renderTimeLine(data){
             d3.select(this).attr('transform', 'translate(0, '+ (labelStr*1+yVal) +')') ;
         });
     };
-    
+
     //Allows dragging the chart and zooming along the x-axis and based on the zoom/drag moves the brush
     //to indicate the region of the timeline that is in focus
     function zoomed(){
@@ -4217,12 +4255,12 @@ function renderTimeLine(data){
                     var tx1 = x2(brush.extent()[0])+dir;
                     var tx2 = x2(brush.extent()[1])+dir;
                     //dir = d3.select(".extent").attr("x")*1+dir;
-                
+
                     if(tx1 < 127) {
                         tx2 += 127-tx1;
                         tx1 = 127;
                     }
-                
+
                     if(tx2 > 1120) {
                         tx1 += 1120-tx2;
                         tx2 = 1120;
@@ -4237,38 +4275,38 @@ function renderTimeLine(data){
                 var zScale = d3.event.scale;
                 var mid = (x2(brush.extent()[1])-x2(brush.extent()[0]))/2+x2(brush.extent()[0]);
                 var zWidth = (x2(brush.extent()[1])-x2(brush.extent()[0]))*zScale;
-                
+
                 var ts1 = mid-zWidth/2;
                 var ts2 = mid+zWidth/2;
-                
+
                 if(zWidth > x2(minDate.setMonth(minDate.getMonth()+1))-126) {
                     if(ts1 < 127)
                         ts1 = 127;
-                    
+
                     if(ts2 > 1120)
                         ts2 = 1120;
                     d3.select(".extent").attr("x",ts1);
                     d3.select(".extent").attr("width",zWidth);
-                
+
                     brush.extent([x2.invert(ts1),x2.invert(ts2)])
                     x.domain(brush.extent());
                     brushed();
                 }
                 minDate.setMonth(minDate.getMonth()-1);
-                zoom.scale(1)   
+                zoom.scale(1)
             }
-        };  
-        
+        };
+
         //Allows brushing over the mini timeline and helps selecting a particular
         //section of the timeline
         function brushed() {
             leftHandle.attr("cx", function() {
-                return x2(brush.extent()[0]) + 1; 
+                return x2(brush.extent()[0]) + 1;
             });
             rightHandle.attr("cx", function() {
-                return x2(brush.extent()[1]) - 1 ; 
+                return x2(brush.extent()[1]) - 1 ;
             });
-            
+
             x.domain(brush.extent());
             barGroup.selectAll(".timeBars").attr("x", function(d){return  x(d.startdate);});
             barGroup.attr("width", 5);
@@ -4278,17 +4316,17 @@ function renderTimeLine(data){
             updateOnScrub();
             // updateTodayLine();
         }
-        
+
         brushed();
-        
+
         brushFunc = function() {
             leftHandle.attr("cx", function() {
-                return x2(brush.extent()[0]) + 1; 
+                return x2(brush.extent()[0]) + 1;
             });
             rightHandle.attr("cx", function() {
-                return x2(brush.extent()[1]) - 1 ; 
+                return x2(brush.extent()[1]) - 1 ;
             });
-            
+
             x.domain(brush.extent());
             barGroup.selectAll(".timeBars").attr("x", function(d){return  x(d.startdate);});
             barGroup.attr("width", 5);
@@ -4298,17 +4336,17 @@ function renderTimeLine(data){
             updateOnScrub();
             // updateTodayLine();
         }
-        
+
         //Redraws the today line when zooming/dragging the timeline
         // function updateTodayLine(){
         //     d3.select(".todayTriangle").attr("transform", "translate("+ (x(currDate)-20) +", 59)")
         //     d3.select(".todayLine").attr("x1", x(currDate)-20)
         //             .attr("x2", x(currDate)-20);
-                    
+
         //     d3.select(".todayLineText").attr("x", x(currDate) - 38)
         //                             .attr("width", 10);
         // }
-        
+
         //Change brush & update Graph
         //Today Button: Moves the brush (while maintaining width) so that the 'today line' aligns with the left edge of the 'scrubber'
         //2 Years, 5 Years, & 6 months: Resizes the brush while maintaing the center point
@@ -4317,16 +4355,16 @@ function renderTimeLine(data){
             var id = elem.attr("id");
             var left = brush.extent()[0];
             var right = brush.extent()[1];
-            
+
             var one_day=1000*60*60*24;
             var d1 = left.getTime();
             var d2 = right.getTime();
-            
+
             var diff = (d1-d2)/2;
             var centerDate = left.getTime() - diff;
-            
+
             if(elem.attr("class").indexOf("active") >= 0) {
-                elem.attr("class", "");   
+                elem.attr("class", "");
             }
             else {
                 d3.selectAll('ul.time-list li').attr("class", "");
@@ -4359,11 +4397,11 @@ function renderTimeLine(data){
                     //  break;
                     case "todayButton":
                         var diff2 = right.getTime() - left.getTime();
-                        if( diff2 >= 107227274850){ 
+                        if( diff2 >= 107227274850){
                             right = x.invert(w);
                             left.setTime(right.getTime() + diff2);
                             d3.select('rect.scrubber').attr("x", function() {
-                               return d3.select('line.todayLine').attr("x1"); 
+                               return d3.select('line.todayLine').attr("x1");
                             });
                         }
                         else {
@@ -4393,8 +4431,8 @@ function renderTimeLine(data){
                 context.select('g.x.brush').call(brush);
             }
     }
-        
-        
+
+
     d3.selectAll('ul.time-list li').on("click", timeButtonClicked);
         //should there be something here?
 
@@ -4403,7 +4441,7 @@ function renderTimeLine(data){
     d3.select('html').on('keydown', function() {
     var keyCode = d3.event.keyCode;
     var offset = 10;
-    if (keyCode == 38) { 
+    if (keyCode == 38) {
       // UP -- scroll up (e.g. dragging the bar on the right)
             var yVal = scrollBar.select(".vScroller").attr("y")*1-offset;
             if(yVal < 55)
@@ -4424,7 +4462,7 @@ function renderTimeLine(data){
             var deltaY = scrollBar.select(".vScroller").attr("y")*1-yVal;
             scrollBar.select(".vScroller").attr("y",yVal);
             updateOnScroll(deltaY);
-      
+
     }
     else if (keyCode == 37) {
       // Left -- move time scrubber to the left (drag)
@@ -4444,7 +4482,7 @@ function renderTimeLine(data){
             brush.extent([x2.invert(tx1),x2.invert(tx2)]);
             x.domain(brush.extent());
             brushFunc();
-      
+
     }
     else if (keyCode == 39) {
       // Right -- move time scrubber to the right (drag)
@@ -4464,9 +4502,9 @@ function renderTimeLine(data){
             brush.extent([x2.invert(tx1),x2.invert(tx2)]);
             x.domain(brush.extent());
             brushFunc();
-    }   
+    }
         else if(keyCode == 187) {
-            // + -- Zooming In - make time scrubber larger (scrolling)  
+            // + -- Zooming In - make time scrubber larger (scrolling)
             var zScale = .9;
             //console.log(zScale)
             var mid = (x2(brush.extent()[1])-x2(brush.extent()[0]))/2+x2(brush.extent()[0]);
@@ -4485,7 +4523,7 @@ function renderTimeLine(data){
                 brushFunc();
             }
             minDate.setMonth(minDate.getMonth()-1);
-            zoom.scale(1)   
+            zoom.scale(1)
         }
         else if (keyCode == 189) {
                 // - -- Zooming our - make the time scrubber smaller (scrolling)
@@ -4507,7 +4545,7 @@ function renderTimeLine(data){
                 brushFunc();
             }
             minDate.setMonth(minDate.getMonth()-1);
-            zoom.scale(1)   
+            zoom.scale(1)
         }
     });
 }
@@ -4551,11 +4589,11 @@ function showDialog(options) {
     if (options.provider != null) {
         $('<p>  <span style="font-weight:bold;">Provider: </span>' + options.provider + '</p><br>').appendTo(content);
     }
-    
+
     if (options.dose != null) {
         $('<p>  <span style="font-weight:bold;">Ordered Dose: </span>' + options.dose + '</p><br>').appendTo(content);
     }
-    
+
     if (options.sDate != null) {
         $('<p>  <span style="font-weight:bold;">Start Date: </span>' + options.sDate + '</p><br>').appendTo(content);
     }
